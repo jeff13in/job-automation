@@ -28,6 +28,9 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Install Python dependencies
+        run: pip install requests
+
       - name: Generate LaTeX resume
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
