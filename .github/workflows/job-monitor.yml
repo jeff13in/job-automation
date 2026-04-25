@@ -2,8 +2,7 @@ name: Job Board Monitor
 
 on:
   schedule:
-    # Run at 9am and 5pm EST (2pm and 10pm UTC)
-    - cron: '0 14,22 * * *'
+    - cron: '*/30 * * * *'
   
   workflow_dispatch:  # Manual trigger button
 
