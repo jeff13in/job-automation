@@ -1,0 +1,75 @@
+# Job Application Automation Configuration
+
+# Job search parameters
+TARGET_LOCATIONS:
+  - Ontario, Canada
+  - Toronto, ON
+  - Remote
+
+# Role categories and keywords
+ROLE_CATEGORIES:
+  cybersecurity:
+    keywords:
+      - SOC analyst
+      - security analyst
+      - cybersecurity analyst
+      - threat detection
+      - security operations
+      - incident response
+      - GRC analyst
+      - security consultant
+    priority_companies:
+      - TMX Group
+      - Canonical
+      - CSE
+      - Bell Canada
+      - RBC
+  
+  software_engineering:
+    keywords:
+      - software engineer
+      - software developer
+      - backend developer
+      - full stack
+      - API developer
+    priority_companies:
+      - Snowflake
+      - Veeva
+      - PheedLoop
+      - Shopify
+  
+  data_ml:
+    keywords:
+      - data analyst
+      - data engineer
+      - ML engineer
+      - analytics
+      - business intelligence
+    priority_companies:
+      - RBC
+      - TD
+      - Meridian
+
+# Company career portals (add specific URLs)
+COMPANY_PORTALS:
+  tmx_group: https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Group
+  canonical: https://canonical.com/careers/all
+  bell: https://jobs.bell.ca/ca/en
+  rbc: https://jobs.rbc.com/ca/en
+
+# Scraping settings
+SCRAPE_SETTINGS:
+  max_jobs_per_search: 10
+  lookback_days: 7
+  user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+# Application tracking
+TRACKING:
+  log_file: data/applied.json
+  status_options:
+    - new
+    - reviewed
+    - applied
+    - interview
+    - rejected
+    - accepted

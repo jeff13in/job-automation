@@ -1,0 +1,65 @@
+name: Generate Application Materials
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: 'Job ID from jobs.json (or "all_new" for batch generation)'
+        required: true
+        type: string
+      
+      force_regenerate:
+        description: 'Force regenerate even if files exist'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate resume
+        run: node scripts/generate-resume.js ${{ inputs.job_id }}
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: application-${{ inputs.job_id }}
+          path: |
+            applications/pending/${{ inputs.job_id }}-*
+          retention-days: 90
+      
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add applications/pending/
+          git commit -m "📝 Generated materials for job: ${{ inputs.job_id }}" || echo "No changes to commit"
+          git push || echo "Nothing to push"
+      
+      - name: Create summary
+        run: |
+          echo "## ✅ Application Materials Generated" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Job ID:** \`${{ inputs.job_id }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Files Created:" >> $GITHUB_STEP_SUMMARY
+          echo "- Resume: \`applications/pending/${{ inputs.job_id }}-resume.json\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Next Steps:" >> $GITHUB_STEP_SUMMARY
+          echo "1. Review generated materials in the \`applications/pending/\` folder" >> $GITHUB_STEP_SUMMARY
+          echo "2. Edit as needed" >> $GITHUB_STEP_SUMMARY
+          echo "3. Move to \`applications/approved/\` when ready" >> $GITHUB_STEP_SUMMARY
+          echo "4. Submit using local automation script" >> $GITHUB_STEP_SUMMARY

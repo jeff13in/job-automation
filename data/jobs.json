@@ -1,0 +1,728 @@
+{
+  "jobs": [
+    {
+      "id": "telus-digital-content-reviewer-us",
+      "title": "Content Reviewer - US",
+      "company": "TELUS Digital",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-us-2089990",
+      "location": "USA",
+      "source": "remotive",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:55.114788",
+      "status": "new"
+    },
+    {
+      "id": "dry-ground-ai-ai-engineer",
+      "title": "AI Engineer",
+      "company": "Dry Ground AI",
+      "url": "https://remotive.com/remote-jobs/ai-ml/ai-engineer-2089958",
+      "location": "Brazil, Colombia, Philippines",
+      "source": "remotive",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:55.114892",
+      "status": "new"
+    },
+    {
+      "id": "a-team-senior-independent-ai-engineer-architect",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "location": "Americas, Europe, Israel",
+      "source": "remotive",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:55.115319",
+      "status": "new"
+    },
+    {
+      "id": "lemon-io-senior-full-stack-react-developer",
+      "title": "Senior Full-stack React Developer",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
+      "location": "Americas, Europe, Asia, Oceania",
+      "source": "remotive",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:55.115535",
+      "status": "new"
+    },
+    {
+      "id": "mitre-media-tech-lead-databricks-data-engineer",
+      "title": "Tech Lead Databricks Data Engineer",
+      "company": "Mitre Media",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-databricks-data-engineer-2069747",
+      "location": "USA, Canada, USA timezones",
+      "source": "remotive",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:55.116091",
+      "status": "new"
+    },
+    {
+      "id": "telus-digital-online-data-analyst-united-states",
+      "title": "Online Data Analyst United States",
+      "company": "TELUS Digital",
+      "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-2088710",
+      "location": "USA",
+      "source": "remotive",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:55.116601",
+      "status": "new"
+    },
+    {
+      "id": "telus-digital-online-data-analyst-united-states-spanish-speakers",
+      "title": "Online Data Analyst (United States/Spanish speakers)",
+      "company": "TELUS Digital",
+      "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-spanish-speakers-2088704",
+      "location": "USA",
+      "source": "remotive",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:55.117695",
+      "status": "new"
+    },
+    {
+      "id": "sumo-logic-account-executive-iii",
+      "title": "Account Executive III",
+      "company": "Sumo Logic",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-iii-sumo-logic-1131287",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918034",
+      "status": "new"
+    },
+    {
+      "id": "caylent-principal-customer-solutions-architect",
+      "title": "Principal Customer Solutions Architect",
+      "company": "Caylent",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-customer-solutions-architect-caylent-1131281",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918084",
+      "status": "new"
+    },
+    {
+      "id": "bridgewater-associates-senior-security-engineer",
+      "title": "Senior Security Engineer",
+      "company": "Bridgewater Associates",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-bridgewater-associates-1131280",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity",
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918133",
+      "status": "new"
+    },
+    {
+      "id": "pave-bank-senior-site-reliability-engineer",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Pave Bank",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-pave-bank-1131263",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918227",
+      "status": "new"
+    },
+    {
+      "id": "bridgewater-associates-referrals-senior-security-engineer-vulnerability-exposure",
+      "title": "Senior Security Engineer Vulnerability & Exposure Management",
+      "company": "Bridgewater Associates Referrals",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-vulnerability-exposure-management-bridgewater-associates-referrals-1131258",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918254",
+      "status": "new"
+    },
+    {
+      "id": "automox-associate-product-manager",
+      "title": "Associate Product Manager",
+      "company": "Automox",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-product-manager-automox-1131256",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918297",
+      "status": "new"
+    },
+    {
+      "id": "dv-trading-senior-cloud-engineer",
+      "title": "Senior Cloud Engineer",
+      "company": "DV Trading",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-dv-trading-1131251",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918339",
+      "status": "new"
+    },
+    {
+      "id": "patreon-software-engineer-identity-access",
+      "title": "Software Engineer Identity & Access",
+      "company": "Patreon",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918419",
+      "status": "new"
+    },
+    {
+      "id": "smile-digital-health-technical-implementations-lead-us",
+      "title": "Technical Implementations Lead US",
+      "company": "Smile Digital Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-implementations-lead-us-smile-digital-health-1131239",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918510",
+      "status": "new"
+    },
+    {
+      "id": "enablecomp-revenue-specialist-first-party-auto-mva",
+      "title": "Revenue Specialist First Party Auto MVA",
+      "company": "EnableComp",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-specialist-first-party-auto-mva-enablecomp-1131232",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918632",
+      "status": "new"
+    },
+    {
+      "id": "calstart-deputy-director-non-entive-programs",
+      "title": "Deputy Director Non entive Programs",
+      "company": "CALSTART",
+      "url": "https://remoteOK.com/remote-jobs/remote-deputy-director-non-entive-programs-calstart-1131186",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918868",
+      "status": "new"
+    },
+    {
+      "id": "donorbox-senior-compliance-manager",
+      "title": "Senior Compliance Manager",
+      "company": "Donorbox",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-compliance-manager-donorbox-1131168",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918914",
+      "status": "new"
+    },
+    {
+      "id": "guidepoint-security-account-executive",
+      "title": "Account Executive",
+      "company": "GuidePoint Security",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-guidepoint-security-1131149",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918941",
+      "status": "new"
+    },
+    {
+      "id": "guidepoint-security-cnapp-security-engineer-mid-atlantic-region",
+      "title": "CNAPP Security Engineer Mid Atlantic region",
+      "company": "GuidePoint Security",
+      "url": "https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.918971",
+      "status": "new"
+    },
+    {
+      "id": "eleks-banking-full-stack-software-developer-tscm-43657",
+      "title": "Banking Full Stack Software Developer TSCM 43657",
+      "company": "Eleks",
+      "url": "https://remoteOK.com/remote-jobs/remote-banking-full-stack-software-developer-tscm-43657-eleks-1131120",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:56.919007",
+      "status": "new"
+    },
+    {
+      "id": "a-team-senior-independent-software-developer",
+      "title": "Senior Independent Software Developer",
+      "company": "A.Team",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "location": "Americas, Europe, Israel",
+      "source": "remotive",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:57.749053",
+      "status": "new"
+    },
+    {
+      "id": "easybill-gmbh-senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d",
+      "title": "\ud83c\udde9\ud83c\uddea Senior/Staff Software Engineer PHP, TS, Rust, Kotlin (m/w/d)",
+      "company": "easybill GmbH",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d-2088708",
+      "location": "Germany",
+      "source": "remotive",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:57.750435",
+      "status": "new"
+    },
+    {
+      "id": "pivotal-health-full-stack-product-engineer",
+      "title": "Full Stack Product Engineer",
+      "company": "Pivotal Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292469",
+      "status": "new"
+    },
+    {
+      "id": "envision-horizons-llc-full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Envision Horizons LLC",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-envision-horizons-llc-1131303",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292601",
+      "status": "new"
+    },
+    {
+      "id": "salesforge-senior-backend-engineer-build-ai-agents",
+      "title": "Senior Backend Engineer Build AI Agents",
+      "company": "Salesforge",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1131292",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292619",
+      "status": "new"
+    },
+    {
+      "id": "careervillage-org-frontend-engineer",
+      "title": "Frontend Engineer",
+      "company": "CareerVillage.org",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-careervillage-org-1131277",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292647",
+      "status": "new"
+    },
+    {
+      "id": "foundation-egi-senior-cad-backend-engineer-mechanical-cad-automation",
+      "title": "Senior CAD Backend Engineer Mechanical CAD Automation",
+      "company": "Foundation EGI",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cad-backend-engineer-mechanical-cad-automation-foundation-egi-1131271",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292698",
+      "status": "new"
+    },
+    {
+      "id": "mighty-networks-senior-software-engineer-payments-monetization",
+      "title": "Senior Software Engineer Payments & Monetization",
+      "company": "Mighty Networks",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-payments-monetization-mighty-networks-1131254",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292730",
+      "status": "new"
+    },
+    {
+      "id": "insider-one-senior-software-engineer-golang",
+      "title": "Senior Software Engineer Golang",
+      "company": "Insider One",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-golang-insider-one-1131199",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292878",
+      "status": "new"
+    },
+    {
+      "id": "air-apps-backend-engineer-rome",
+      "title": "Backend Engineer Rome",
+      "company": "Air Apps",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-engineer-rome-air-apps-1131185",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity",
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292947",
+      "status": "new"
+    },
+    {
+      "id": "clover-health-operations-associate-payment-integrity",
+      "title": "Operations Associate Payment Integrity",
+      "company": "Clover Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-associate-payment-integrity-clover-health-1131182",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.292995",
+      "status": "new"
+    },
+    {
+      "id": "ocrolus-inc-senior-software-engineer-app-infra",
+      "title": "Senior Software Engineer App Infra",
+      "company": "Ocrolus Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-app-infra-ocrolus-inc-1131164",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.293033",
+      "status": "new"
+    },
+    {
+      "id": "yuno-technical-support-analyst",
+      "title": "Technical Support Analyst",
+      "company": "Yuno",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-support-analyst-yuno-1131151",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.293191",
+      "status": "new"
+    },
+    {
+      "id": "wingspan-software-engineer-payment-operations",
+      "title": "Software Engineer Payment Operations",
+      "company": "Wingspan",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-payment-operations-wingspan-1131116",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.293226",
+      "status": "new"
+    },
+    {
+      "id": "rebuy-inc-sr-software-engineer-b-e",
+      "title": "Sr Software Engineer B E",
+      "company": "Rebuy, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-software-engineer-b-e-rebuy-inc-1131104",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.293398",
+      "status": "new"
+    },
+    {
+      "id": "xsolla-xsolla-senior-full-stack-engineer",
+      "title": "Xsolla Senior Full stack Engineer",
+      "company": "Xsolla",
+      "url": "https://remoteOK.com/remote-jobs/remote-xsolla-senior-full-stack-engineer-xsolla-1131072",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.293419",
+      "status": "new"
+    },
+    {
+      "id": "ternary-staff-software-engineer-full-stack",
+      "title": "Staff Software Engineer Full Stack",
+      "company": "Ternary",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-full-stack-ternary-1131066",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.293483",
+      "status": "new"
+    },
+    {
+      "id": "skelar-senior-tech-lead-mobile-developer-risora",
+      "title": "Senior Tech Lead Mobile Developer Risora",
+      "company": "SKELAR",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-tech-lead-mobile-developer-risora-skelar-1131315",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.829837",
+      "status": "new"
+    },
+    {
+      "id": "amigo-applied-ai-engineer-europe",
+      "title": "Applied AI Engineer Europe",
+      "company": "Amigo",
+      "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.829980",
+      "status": "new"
+    },
+    {
+      "id": "vonage-healthcare-account-executive",
+      "title": "Healthcare Account Executive",
+      "company": "Vonage",
+      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-account-executive-vonage-1131272",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830038",
+      "status": "new"
+    },
+    {
+      "id": "capnexus-senior-data-engineer",
+      "title": "Senior Data Engineer",
+      "company": "Capnexus",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-capnexus-1131269",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830062",
+      "status": "new"
+    },
+    {
+      "id": "highspot-senior-solution-consultant",
+      "title": "Senior Solution Consultant",
+      "company": "Highspot",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-solution-consultant-highspot-1131179",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830172",
+      "status": "new"
+    },
+    {
+      "id": "calendly-engineering-manager",
+      "title": "Engineering Manager",
+      "company": "Calendly",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-calendly-1131174",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830219",
+      "status": "new"
+    },
+    {
+      "id": "540-test-automation-engineer",
+      "title": "Test Automation Engineer",
+      "company": "540",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-automation-engineer-540-1131147",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830264",
+      "status": "new"
+    },
+    {
+      "id": "agoda-principal-specialist-counsel-financial-crime-compliance",
+      "title": "Principal Specialist Counsel Financial Crime & Compliance",
+      "company": "Agoda",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-specialist-counsel-financial-crime-compliance-agoda-1131118",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830307",
+      "status": "new"
+    },
+    {
+      "id": "agoda-privacy-principal-counsel",
+      "title": "Privacy Principal Counsel",
+      "company": "Agoda",
+      "url": "https://remoteOK.com/remote-jobs/remote-privacy-principal-counsel-agoda-1131117",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830344",
+      "status": "new"
+    },
+    {
+      "id": "smartsheet-solutions-architect",
+      "title": "Solutions Architect",
+      "company": "Smartsheet",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-architect-smartsheet-1131033",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830390",
+      "status": "new"
+    },
+    {
+      "id": "coderio-senior-backend-engineer-ms050ka",
+      "title": "Senior Backend Engineer MS050KA",
+      "company": "Coderio",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-ms050ka-coderio-1131031",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830438",
+      "status": "new"
+    },
+    {
+      "id": "moonpay-senior-security-engineer-automation",
+      "title": "Senior Security Engineer Automation",
+      "company": "MoonPay",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-automation-moonpay-1130921",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.830606",
+      "status": "new"
+    },
+    {
+      "id": "speechify-software-engineer-web-core-product-chrome-extension",
+      "title": "Software Engineer, Web Core Product & Chrome Extension",
+      "company": "Speechify",
+      "url": "https://weworkremotely.com/remote-jobs/speechify-software-engineer-web-core-product-chrome-extension",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.999023",
+      "status": "new"
+    },
+    {
+      "id": "speechify-inc-software-engineer-ios-core-product",
+      "title": "Software Engineer, iOS Core Product",
+      "company": "Speechify Inc",
+      "url": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.999051",
+      "status": "new"
+    },
+    {
+      "id": "reveleer-full-stack-ai-engineer",
+      "title": "Full Stack AI Engineer",
+      "company": "Reveleer",
+      "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.999078",
+      "status": "new"
+    },
+    {
+      "id": "walter-senior-software-engineer",
+      "title": "Senior Software Engineer",
+      "company": "WALTER",
+      "url": "https://weworkremotely.com/remote-jobs/walter-senior-software-engineer",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T13:48:58.999097",
+      "status": "new"
+    }
+  ],
+  "last_updated": "2026-04-25T13:48:58.999889"
+}

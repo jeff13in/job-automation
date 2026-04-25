@@ -1,0 +1,46 @@
+# Environment variables
+.env
+.env.local
+
+# API keys
+*.key
+secrets.json
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+
+# Output artifacts (generated resumes/covers)
+# Uncomment if you don't want to commit these
+# applications/pending/*
+# applications/approved/*
+
+# Keep directory structure
+!applications/pending/.gitkeep
+!applications/approved/.gitkeep

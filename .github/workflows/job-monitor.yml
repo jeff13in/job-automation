@@ -1,0 +1,65 @@
+name: Job Board Monitor
+
+on:
+  schedule:
+    # Run at 9am and 5pm EST (2pm and 10pm UTC)
+    - cron: '0 14,22 * * *'
+  
+  workflow_dispatch:  # Manual trigger button
+
+jobs:
+  scrape-jobs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+      
+      - name: Run job scraper
+        run: python scripts/scrape_jobs.py
+      
+      - name: Check for new jobs
+        id: check_new
+        run: |
+          if git diff --quiet data/jobs.json; then
+            echo "new_jobs=false" >> $GITHUB_OUTPUT
+          else
+            echo "new_jobs=true" >> $GITHUB_OUTPUT
+            NEW_COUNT=$(git diff data/jobs.json | grep -c '^\+.*"id":' || echo 0)
+            echo "count=$NEW_COUNT" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit new jobs
+        if: steps.check_new.outputs.new_jobs == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json
+          git commit -m "🔍 Found ${{ steps.check_new.outputs.count }} new job(s)"
+          git push
+      
+      - name: Create summary
+        if: steps.check_new.outputs.new_jobs == 'true'
+        run: |
+          echo "## 🎯 New Jobs Found" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Found **${{ steps.check_new.outputs.count }}** new job(s)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Check the \`applications/pending/\` folder for generated materials." >> $GITHUB_STEP_SUMMARY
+      
+      - name: No new jobs
+        if: steps.check_new.outputs.new_jobs == 'false'
+        run: |
+          echo "## ℹ️ No New Jobs" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "No new jobs found in this run." >> $GITHUB_STEP_SUMMARY

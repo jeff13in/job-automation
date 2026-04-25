@@ -1,0 +1,22 @@
+{
+  "name": "job-automation",
+  "version": "1.0.0",
+  "description": "Automated job application pipeline",
+  "main": "scripts/generate-resume.js",
+  "scripts": {
+    "scrape": "python3 scripts/scrape_jobs.py",
+    "generate-resume": "node scripts/generate-resume.js",
+    "generate-cover": "python3 scripts/generate-cover-letter.py",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["automation", "job-search", "resume", "cover-letter"],
+  "author": "Jeffin Sam Joji",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "docx": "^8.5.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
