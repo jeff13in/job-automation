@@ -21,10 +21,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Python dependencies
-        run: |
-          pip install requests
-
       - name: Set up Tectonic
         uses: wtfjoke/setup-tectonic@v3
         with:
@@ -36,18 +32,11 @@ jobs:
       - name: Compile resume to PDF
         run: tectonic applications/pending/${{ inputs.job_id }}-resume.tex
 
-      - name: Generate cover letter
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/generate-cover-letter.py ${{ inputs.job_id }}
-
-      - name: Upload artifacts
+      - name: Upload resume PDF
         uses: actions/upload-artifact@v4
         with:
-          name: application-${{ inputs.job_id }}
-          path: |
-            applications/pending/${{ inputs.job_id }}-resume.pdf
-            applications/pending/${{ inputs.job_id }}-cover-letter.txt
+          name: resume-${{ inputs.job_id }}
+          path: applications/pending/${{ inputs.job_id }}-resume.pdf
           retention-days: 90
 
       - name: Commit generated files
@@ -55,14 +44,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add applications/pending/
-          git commit -m "Generated materials for: ${{ inputs.job_id }}" || echo "No changes to commit"
+          git commit -m "Generated resume for: ${{ inputs.job_id }}" || echo "No changes to commit"
           git push || echo "Nothing to push"
 
       - name: Summary
         run: |
-          echo "## Application Materials Generated" >> $GITHUB_STEP_SUMMARY
+          echo "## Resume Generated" >> $GITHUB_STEP_SUMMARY
           echo "**Job ID:** \`${{ inputs.job_id }}\`" >> $GITHUB_STEP_SUMMARY
           echo "- Resume PDF: \`applications/pending/${{ inputs.job_id }}-resume.pdf\`" >> $GITHUB_STEP_SUMMARY
-          echo "- Cover Letter: \`applications/pending/${{ inputs.job_id }}-cover-letter.txt\`" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "Download from the Artifacts section above." >> $GITHUB_STEP_SUMMARY
