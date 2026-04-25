@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install requests google-genai
+          pip install requests
 
       - name: Set up Tectonic
         uses: wtfjoke/setup-tectonic@v3

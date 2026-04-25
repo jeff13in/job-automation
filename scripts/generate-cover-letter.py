@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 """
-Cover letter generator using Google Gemini API (free tier — 1500 req/day).
-Follows the Brock Co-op framework: extract requirements → build evidence → write narrative.
+Cover letter generator using Gemini REST API (free tier — 1500 req/day).
+Uses requests directly — no Google SDK dependency.
 Requires: GEMINI_API_KEY environment variable
 """
 
 import json
 import os
 import sys
-from google import genai
+import requests
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 BROCK_FRAMEWORK_PROMPT = """You are helping a Computer Science student write cover letters using the Brock Co-op framework.
 
@@ -72,8 +74,6 @@ def generate_cover_letter(job: dict) -> str:
         print("ERROR: GEMINI_API_KEY not set")
         sys.exit(1)
 
-    client = genai.Client(api_key=api_key)
-
     prompt = BROCK_FRAMEWORK_PROMPT.format(
         job_description=job.get("description", "No description available."),
         company=job["company"],
@@ -81,8 +81,16 @@ def generate_cover_letter(job: dict) -> str:
     )
 
     print(f"Generating cover letter for: {job['title']} at {job['company']}")
-    response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
-    return response.text
+
+    response = requests.post(
+        GEMINI_URL,
+        params={"key": api_key},
+        json={"contents": [{"parts": [{"text": prompt}]}]},
+        timeout=60,
+    )
+    response.raise_for_status()
+
+    return response.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
 def main():
