@@ -8,7 +8,7 @@ Requires: GEMINI_API_KEY environment variable
 import json
 import os
 import sys
-import google.generativeai as genai
+from google import genai
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -72,8 +72,7 @@ def generate_cover_letter(job: dict) -> str:
         print("ERROR: GEMINI_API_KEY not set")
         sys.exit(1)
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    client = genai.Client(api_key=api_key)
 
     prompt = BROCK_FRAMEWORK_PROMPT.format(
         job_description=job.get("description", "No description available."),
@@ -82,7 +81,7 @@ def generate_cover_letter(job: dict) -> str:
     )
 
     print(f"Generating cover letter for: {job['title']} at {job['company']}")
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
     return response.text
 
 
