@@ -69,14 +69,57 @@ Generate a cover letter following the Brock Co-op framework. Start with a strong
 Output only the cover letter text — no preamble, no notes, no formatting markers."""
 
 
+def fetch_description(url: str) -> str:
+    """Try to fetch job description from the listing URL."""
+    if not url:
+        return ""
+    try:
+        resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+        if resp.status_code == 200:
+            from html.parser import HTMLParser
+
+            class TextExtractor(HTMLParser):
+                def __init__(self):
+                    super().__init__()
+                    self.text = []
+                    self._skip = False
+
+                def handle_starttag(self, tag, attrs):
+                    if tag in ("script", "style", "nav", "header", "footer"):
+                        self._skip = True
+
+                def handle_endtag(self, tag):
+                    if tag in ("script", "style", "nav", "header", "footer"):
+                        self._skip = False
+
+                def handle_data(self, data):
+                    if not self._skip and data.strip():
+                        self.text.append(data.strip())
+
+            parser = TextExtractor()
+            parser.feed(resp.text)
+            return " ".join(parser.text)[:3000]
+    except Exception:
+        pass
+    return ""
+
+
 def generate_cover_letter(job: dict) -> str:
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("ERROR: GEMINI_API_KEY not set")
         sys.exit(1)
 
+    description = job.get("description", "")
+    if not description and job.get("url"):
+        print(f"No description stored — fetching from {job['url']}")
+        description = fetch_description(job["url"])
+
+    if not description:
+        description = f"{job['title']} position at {job['company']}. No job description available — write a strong general cover letter based on the role title and company."
+
     prompt = BROCK_FRAMEWORK_PROMPT.format(
-        job_description=job.get("description", "No description available."),
+        job_description=description,
         company=job["company"],
         title=job["title"],
     )
