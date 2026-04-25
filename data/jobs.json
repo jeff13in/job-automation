@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "id": "united-church-it-support-assistant",
+      "title": "IT Support Assistant - Canada Summer Jobs Program",
+      "company": "The United Church of Canada",
+      "url": "https://unitedchurch.elevate-ats.com/job/1016433/it-support-assistant-canada-summer-jobs-program?s=in",
+      "location": "Toronto - North York, ON",
+      "source": "manual",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-25T00:00:00",
+      "status": "new",
+      "description": "IT Support Assistant - Canada Summer Jobs Program. The Shared Services Unit of The United Church of Canada is seeking an individual to fill the role of IT Support Assistant as part of the Canada Summer Jobs Program for 2026. This is an 8-week program at 35 hours per week with an anticipated start date of May 25, 2026. Responsibilities include: Providing front-line technical support to end users, including troubleshooting issues with hardware, software, printers, and network connectivity; Assisting with setup, configuration, and maintenance of computers, peripherals, and mobile devices; Support the deployment and management of Microsoft 365 tools, including SharePoint, Teams, Exchange Online, and OneDrive; Document IT procedures, troubleshooting steps, and system configurations to maintain accurate records; Assist with user onboarding and offboarding, including account setup, access permissions, and equipment preparation. Learning Opportunities: Gain hands-on experience with Microsoft Office 365 (SharePoint Online, Exchange Online, OneDrive, Teams) and Azure services. Learn how to manage and troubleshoot Windows 10/11 devices and Dell hardware. Become familiar with Dynamics 365 CRM and Business Central systems. Learn to work with Zendesk for ticketing and reporting. Gain exposure to CIRA Cybersecurity Awareness Training and best practices in organizational security. Learn how to support cloud-first environments, including user access, data governance, and security compliance. Qualifications: Post secondary education, ability to manage multiple priorities, strong verbal and written communication skills, experience with Microsoft Office."
+    },
+    {
       "id": "telus-digital-content-reviewer-us",
       "title": "Content Reviewer - US",
       "company": "TELUS Digital",
