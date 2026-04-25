@@ -90,7 +90,6 @@ PREAMBLE = r"""\documentclass[11pt]{article}
 \usepackage{array}
 \usepackage{booktabs}
 \usepackage{setspace}
-\usepackage{fontawesome5}
 \usepackage{graphicx}
 
 \titleformat{\section}{\Large\bfseries}{}{0em}{}[\titlerule]
@@ -426,9 +425,9 @@ def build_projects(projects: list) -> str:
     for p in projects:
         name_part = p["name"]
         if p.get("github_url"):
-            name_part += f" \\href{{{p['github_url']}}}{{\\faGithub\\ GitHub}}"
+            name_part += f" \\href{{{p['github_url']}}}{{GitHub}}"
         if p.get("live_url"):
-            name_part += f" \\textbar{{}} \\href{{{p['live_url']}}}{{\\faGlobe\\ Live Demo}}"
+            name_part += f" \\textbar{{}} \\href{{{p['live_url']}}}{{Live Demo}}"
         header = f"\\textbf{{{name_part} \\textbar{{}} {p['label']} \\textbar{{}} {p['dates']}}}"
 
         lines.append(header)
