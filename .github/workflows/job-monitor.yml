@@ -32,10 +32,11 @@ jobs:
         run: |
           if git diff --quiet data/jobs.json; then
             echo "new_jobs=false" >> $GITHUB_OUTPUT
+            echo "count=0" >> $GITHUB_OUTPUT
           else
             echo "new_jobs=true" >> $GITHUB_OUTPUT
-            NEW_COUNT=$(git diff data/jobs.json | grep -c '^\+.*"id":' || echo 0)
-            echo "count=$NEW_COUNT" >> $GITHUB_OUTPUT
+            NEW_COUNT=$(git diff data/jobs.json | grep '^\+.*"id":' | wc -l | tr -d ' ')
+            echo "count=${NEW_COUNT}" >> $GITHUB_OUTPUT
           fi
       
       - name: Commit new jobs

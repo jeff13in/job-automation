@@ -8,6 +8,7 @@ Requires: GEMINI_API_KEY environment variable
 import json
 import os
 import sys
+import time
 import requests
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -82,15 +83,23 @@ def generate_cover_letter(job: dict) -> str:
 
     print(f"Generating cover letter for: {job['title']} at {job['company']}")
 
-    response = requests.post(
-        GEMINI_URL,
-        params={"key": api_key},
-        json={"contents": [{"parts": [{"text": prompt}]}]},
-        timeout=60,
-    )
-    response.raise_for_status()
+    for attempt in range(4):
+        response = requests.post(
+            GEMINI_URL,
+            params={"key": api_key},
+            json={"contents": [{"parts": [{"text": prompt}]}]},
+            timeout=60,
+        )
+        if response.status_code == 429:
+            wait = 20 * (attempt + 1)
+            print(f"Rate limited. Waiting {wait}s before retry {attempt + 1}/3...")
+            time.sleep(wait)
+            continue
+        response.raise_for_status()
+        return response.json()["candidates"][0]["content"]["parts"][0]["text"]
 
-    return response.json()["candidates"][0]["content"]["parts"][0]["text"]
+    print("ERROR: Failed after 4 attempts due to rate limiting")
+    sys.exit(1)
 
 
 def main():
