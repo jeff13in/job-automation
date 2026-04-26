@@ -736,7 +736,21 @@
       ],
       "discovered_date": "2026-04-25T13:48:58.999097",
       "status": "new"
+    },
+    {
+      "id": "tenex-ai-territory-account-manager",
+      "title": "Territory Account Manager",
+      "company": "TENEX.AI",
+      "url": "https://remoteOK.com/remote-jobs/remote-territory-account-manager-tenex-ai-1131323",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity",
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-26T02:12:00.432714",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-04-25T23:33:03.843689"
+  "last_updated": "2026-04-26T02:12:02.363377"
 }
