@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Job board scraper - uses Remotive API and We Work Remotely RSS
-Both are free with no API key required.
+Job board scraper - uses Remotive API, We Work Remotely RSS, and intern-list.com
 """
 
 import json
 import os
 import re
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from typing import List, Dict
@@ -201,6 +201,103 @@ def scrape_remoteok(track: str, tags: List[str]) -> List[Dict]:
     return jobs
 
 
+# intern-list.com category paths mapped to our role tracks
+INTERN_LIST_TRACKS = {
+    "software_engineering": "/swe-intern-list",
+    "data_ml": "/da-intern-list",
+}
+
+
+def parse_intern_list_slug(slug: str):
+    """Parse title and company from a slug like 'software_engineer_intern_at_google_12345'."""
+    slug_no_id = re.sub(r'_\d+$', '', slug)
+    if '_at_' in slug_no_id:
+        title_part, company_part = slug_no_id.split('_at_', 1)
+        title = ' '.join(w.capitalize() for w in title_part.split('_'))
+        company = ' '.join(w.capitalize() for w in company_part.split('_'))
+    else:
+        title = ' '.join(w.capitalize() for w in slug_no_id.split('_'))
+        company = ""
+    return title, company
+
+
+def scrape_intern_list(track: str, list_path: str, max_pages: int = 3) -> List[Dict]:
+    """Fetch internship listings from intern-list.com."""
+    try:
+        from bs4 import BeautifulSoup
+    except ImportError:
+        print("  beautifulsoup4 not installed, skipping intern-list")
+        return []
+
+    jobs = []
+    seen_slugs: set = set()
+    base_url = "https://www.intern-list.com"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+
+    page_url = f"{base_url}{list_path}"
+    pages_fetched = 0
+
+    while page_url and pages_fetched < max_pages:
+        try:
+            time.sleep(1.5)
+            resp = requests.get(page_url, headers=headers, timeout=20)
+            resp.raise_for_status()
+            soup = BeautifulSoup(resp.text, "lxml")
+
+            prefix = list_path + "/"
+            found_on_page = 0
+
+            for tag in soup.find_all("a", href=True):
+                href = tag["href"]
+                if not href.startswith(prefix):
+                    continue
+                slug = href.split("/")[-1]
+                if not slug or slug in seen_slugs:
+                    continue
+                seen_slugs.add(slug)
+
+                title, company = parse_intern_list_slug(slug)
+                if not title:
+                    continue
+
+                categories = classify_role(title)
+
+                jobs.append({
+                    "id": generate_job_id(title, company),
+                    "title": title,
+                    "company": company,
+                    "url": base_url + href,
+                    "location": "USA",
+                    "source": "intern-list",
+                    "categories": categories if categories else [track],
+                    "discovered_date": datetime.now().isoformat(),
+                    "status": "new",
+                })
+                found_on_page += 1
+
+            print(f"  Page {pages_fetched + 1}: {found_on_page} jobs")
+
+            # Find the Next page link
+            next_tag = soup.find("a", string=re.compile(r"^\s*next\s*$", re.IGNORECASE))
+            if not next_tag:
+                next_tag = soup.find("a", attrs={"aria-label": re.compile(r"next", re.IGNORECASE)})
+            if next_tag and next_tag.get("href"):
+                href = next_tag["href"]
+                page_url = href if href.startswith("http") else base_url + href
+            else:
+                page_url = None
+
+            pages_fetched += 1
+
+        except Exception as e:
+            print(f"  intern-list ({track}) page {pages_fetched + 1} error: {e}")
+            break
+
+    return jobs
+
+
 def main():
     print("=== Job Board Scraper ===")
     print(f"Run time: {datetime.now().isoformat()}\n")
@@ -227,6 +324,16 @@ def main():
 
         print(f"  → {len(found)} total for {track}")
 
+        for job in found:
+            if job["id"] not in existing_ids:
+                new_jobs.append(job)
+                existing_ids.add(job["id"])
+
+    # intern-list.com (internship-focused)
+    for track, list_path in INTERN_LIST_TRACKS.items():
+        print(f"\nScraping intern-list.com ({track})...")
+        found = scrape_intern_list(track, list_path)
+        print(f"  → {len(found)} total for {track}")
         for job in found:
             if job["id"] not in existing_ids:
                 new_jobs.append(job)

@@ -738,6 +738,19 @@
       "status": "new"
     },
     {
+      "id": "finalis-software-engineer",
+      "title": "Software Engineer",
+      "company": "Finalis",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-finalis-1131328",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:32:12.401534",
+      "status": "new"
+    },
+    {
       "id": "tenex-ai-territory-account-manager",
       "title": "Territory Account Manager",
       "company": "TENEX.AI",
@@ -748,22 +761,1972 @@
         "cybersecurity",
         "software_engineering"
       ],
-      "discovered_date": "2026-04-26T02:12:00.432714",
+      "discovered_date": "2026-04-27T13:32:13.891465",
       "status": "new"
     },
     {
-      "id": "finalis-software-engineer",
-      "title": "Software Engineer",
-      "company": "Finalis",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-finalis-1131328",
-      "location": "Remote",
-      "source": "remoteok",
+      "id": "synopsys-inc-qa-software-testing-internship",
+      "title": "Qa Software Testing Internship",
+      "company": "Synopsys Inc",
+      "url": "https://www.intern-list.com/swe-intern-list/qa_software_testing_internship_at_synopsys_inc_54061611",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.839911",
+      "status": "new"
+    },
+    {
+      "id": "stmicroelectronics-application-engineer-intern",
+      "title": "Application Engineer Intern",
+      "company": "Stmicroelectronics",
+      "url": "https://www.intern-list.com/swe-intern-list/application_engineer_intern_at_stmicroelectronics_54061620",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.839939",
+      "status": "new"
+    },
+    {
+      "id": "onto-innovation-software-engineer-internship",
+      "title": "Software Engineer Internship",
+      "company": "Onto Innovation",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_internship_at_onto_innovation_54061613",
+      "location": "USA",
+      "source": "intern-list",
       "categories": [
         "software_engineering"
       ],
-      "discovered_date": "2026-04-27T00:02:40.260792",
+      "discovered_date": "2026-04-27T13:34:00.839952",
+      "status": "new"
+    },
+    {
+      "id": "onto-innovation-software-qa-engineer-internship",
+      "title": "Software Qa Engineer Internship",
+      "company": "Onto Innovation",
+      "url": "https://www.intern-list.com/swe-intern-list/software_qa_engineer_internship_at_onto_innovation_54061691",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.839963",
+      "status": "new"
+    },
+    {
+      "id": "brightstar-lottery-software-engineer-intern-etail",
+      "title": "Software Engineer Intern Etail",
+      "company": "Brightstar Lottery",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_etail_at_brightstar_lottery_57047624",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.839974",
+      "status": "new"
+    },
+    {
+      "id": "brightstar-lottery-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Brightstar Lottery",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_brightstar_lottery_54061628",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.839984",
+      "status": "new"
+    },
+    {
+      "id": "ge-healthcare-information-technology-development-program-internship",
+      "title": "Information Technology Development Program Internship",
+      "company": "Ge Healthcare",
+      "url": "https://www.intern-list.com/swe-intern-list/information_technology_development_program_internship_at_ge_healthcare_57047665",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.839996",
+      "status": "new"
+    },
+    {
+      "id": "leidos-visualization-engineer-intern",
+      "title": "Visualization Engineer Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/swe-intern-list/visualization_engineer_intern_at_leidos_16970382",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840006",
+      "status": "new"
+    },
+    {
+      "id": "leidos-computer-engineering-intern",
+      "title": "Computer Engineering Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/swe-intern-list/computer_engineering_intern_at_leidos_16970392",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840015",
+      "status": "new"
+    },
+    {
+      "id": "leidos-software-developer-intern",
+      "title": "Software Developer Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/swe-intern-list/software_developer_intern_at_leidos_16970386",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840024",
+      "status": "new"
+    },
+    {
+      "id": "dassault-systmes-internship-quality-engineering-intern-ai-powered-testing-6mo-ju",
+      "title": "Internship Quality Engineering Intern Ai Powered Testing 6mo June 2026",
+      "company": "Dassault Systmes",
+      "url": "https://www.intern-list.com/swe-intern-list/internship_quality_engineering_intern_ai_powered_testing_6mo_june_2026_at_dassault_systmes_57047670",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840057",
+      "status": "new"
+    },
+    {
+      "id": "trimble-inc-software-engineering-intern",
+      "title": "Software Engineering Intern",
+      "company": "Trimble Inc ",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineering_intern_at_trimble_inc__57047619",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840067",
+      "status": "new"
+    },
+    {
+      "id": "abb-software-intern-qa-engineering-summer-2026",
+      "title": "Software Intern Qa Engineering Summer 2026",
+      "company": "Abb",
+      "url": "https://www.intern-list.com/swe-intern-list/software_intern_qa_engineering_summer_2026_at_abb_39523677",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840098",
+      "status": "new"
+    },
+    {
+      "id": "ibm-firmware-developer-intern-2026",
+      "title": "Firmware Developer Intern 2026",
+      "company": "Ibm",
+      "url": "https://www.intern-list.com/swe-intern-list/firmware_developer_intern_2026_at_ibm_39523627",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840108",
+      "status": "new"
+    },
+    {
+      "id": "v2x-inc-2026-software-engineering-intern",
+      "title": "2026 Software Engineering Intern",
+      "company": "V2x Inc",
+      "url": "https://www.intern-list.com/swe-intern-list/2026_software_engineering_intern_at_v2x_inc_39523653",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840119",
+      "status": "new"
+    },
+    {
+      "id": "thales-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Thales",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_thales_39523662",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840127",
+      "status": "new"
+    },
+    {
+      "id": "general-dynamics-intern-software-engineer-orlando",
+      "title": "Intern Software Engineer Orlando",
+      "company": "General Dynamics",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_software_engineer_orlando_at_general_dynamics_3394993",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840138",
+      "status": "new"
+    },
+    {
+      "id": "axon-2026-uk-software-engineering-internship",
+      "title": "2026 Uk Software Engineering Internship",
+      "company": "Axon",
+      "url": "https://www.intern-list.com/swe-intern-list/2026_uk_software_engineering_internship_at_axon_44077351",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840182",
+      "status": "new"
+    },
+    {
+      "id": "state-street-cloud-engineering-internship-6-month-internship-july-dec",
+      "title": "Cloud Engineering Internship 6 Month Internship July Dec ",
+      "company": "State Street",
+      "url": "https://www.intern-list.com/swe-intern-list/cloud_engineering_internship_6_month_internship_july_dec__at_state_street_44077383",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840195",
+      "status": "new"
+    },
+    {
+      "id": "sungrow-ess-application-engineering-internship",
+      "title": "Ess Application Engineering Internship",
+      "company": "Sungrow",
+      "url": "https://www.intern-list.com/swe-intern-list/ess_application_engineering_internship_at_sungrow_44077313",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840216",
+      "status": "new"
+    },
+    {
+      "id": "general-dynamics-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "General Dynamics",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_general_dynamics_44077399",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840225",
+      "status": "new"
+    },
+    {
+      "id": "signify-advanced-development-software-intern-cooper-lighting-solutions-summer-20",
+      "title": "Advanced Development Software Intern Cooper Lighting Solutions Summer 2026 ",
+      "company": "Signify",
+      "url": "https://www.intern-list.com/swe-intern-list/advanced_development_software_intern_cooper_lighting_solutions_summer_2026__at_signify_32002824",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840239",
+      "status": "new"
+    },
+    {
+      "id": "broadridge-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Broadridge",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_broadridge_32002839",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840247",
+      "status": "new"
+    },
+    {
+      "id": "emerson-software-engineering-intern",
+      "title": "Software Engineering Intern",
+      "company": "Emerson",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineering_intern_at_emerson_32002856",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840256",
+      "status": "new"
+    },
+    {
+      "id": "w-r-berkley-corporation-engineering-intern",
+      "title": "Engineering Intern",
+      "company": "W R Berkley Corporation",
+      "url": "https://www.intern-list.com/swe-intern-list/engineering_intern_at_w_r_berkley_corporation_32002884",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840266",
+      "status": "new"
+    },
+    {
+      "id": "accenture-intern-software-engineering-june-2026",
+      "title": "Intern Software Engineering June 2026",
+      "company": "Accenture",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_software_engineering_june_2026_at_accenture_32002895",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840276",
+      "status": "new"
+    },
+    {
+      "id": "applied-materials-2026-summer-computer-science-intern-ai-ml-tools-bachelor-s-hun",
+      "title": "2026 Summer Computer Science Intern Ai Ml Tools Bachelor S Huntsville Al ",
+      "company": "Applied Materials",
+      "url": "https://www.intern-list.com/swe-intern-list/2026_summer_computer_science_intern_ai_ml_tools_bachelor_s_huntsville_al__at_applied_materials_68536931",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840290",
+      "status": "new"
+    },
+    {
+      "id": "bnp-paribas-risk-strategy-governance-automation-intern",
+      "title": "Risk Strategy Governance Automation Intern",
+      "company": "Bnp Paribas",
+      "url": "https://www.intern-list.com/swe-intern-list/risk_strategy_governance_automation_intern_at_bnp_paribas_68536958",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840302",
+      "status": "new"
+    },
+    {
+      "id": "copart-software-engineering-intern",
+      "title": "Software Engineering Intern",
+      "company": "Copart",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineering_intern_at_copart_18276354",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840310",
+      "status": "new"
+    },
+    {
+      "id": "murphy-usa-software-engineering-intern",
+      "title": "Software Engineering Intern",
+      "company": "Murphy Usa",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineering_intern_at_murphy_usa_18276393",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840319",
+      "status": "new"
+    },
+    {
+      "id": "cisco-software-engineer-full-stack-application-development-i-intern-united-state",
+      "title": "Software Engineer Full Stack Application Development I Intern United States",
+      "company": "Cisco",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_full_stack_application_development_i_intern_united_states_at_cisco_68536957",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840331",
+      "status": "new"
+    },
+    {
+      "id": "teradata-software-engineering-intern",
+      "title": "Software Engineering Intern",
+      "company": "Teradata",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineering_intern_at_teradata_68536958",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840339",
+      "status": "new"
+    },
+    {
+      "id": "leidos-jr-software-engineer-intern",
+      "title": "Jr Software Engineer Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/swe-intern-list/jr_software_engineer_intern_at_leidos_1625820",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840348",
+      "status": "new"
+    },
+    {
+      "id": "western-union-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Western Union",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_western_union_68536945",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840357",
+      "status": "new"
+    },
+    {
+      "id": "leidos-engineering-intern-software-app-development",
+      "title": "Engineering Intern Software App Development",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/swe-intern-list/engineering_intern_software_app_development_at_leidos_1625849",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840367",
+      "status": "new"
+    },
+    {
+      "id": "leidos-software-engineering-intern",
+      "title": "Software Engineering Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineering_intern_at_leidos_18276382",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840385",
+      "status": "new"
+    },
+    {
+      "id": "booz-allen-hamilton-test-engineer-intern",
+      "title": "Test Engineer Intern",
+      "company": "Booz Allen Hamilton",
+      "url": "https://www.intern-list.com/swe-intern-list/test_engineer_intern_at_booz_allen_hamilton_1625887",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840403",
+      "status": "new"
+    },
+    {
+      "id": "infineon-technologies-internship-software-engineer",
+      "title": "Internship Software Engineer",
+      "company": "Infineon Technologies",
+      "url": "https://www.intern-list.com/swe-intern-list/internship_software_engineer_at_infineon_technologies_1625884",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840412",
+      "status": "new"
+    },
+    {
+      "id": "baxter-international-inc-intern-embedded-software-r-d",
+      "title": "Intern Embedded Software R D",
+      "company": "Baxter International Inc ",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_embedded_software_r_d_at_baxter_international_inc__74432489",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840431",
+      "status": "new"
+    },
+    {
+      "id": "baxter-international-inc-intern-r-d-embedded-software",
+      "title": "Intern R D Embedded Software",
+      "company": "Baxter International Inc ",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_r_d_embedded_software_at_baxter_international_inc__74432433",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840442",
+      "status": "new"
+    },
+    {
+      "id": "sap-sap-ixp-intern-software-developer-agentic-ai-llm-systems",
+      "title": "Sap Ixp Intern Software Developer Agentic Ai Llm Systems ",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/swe-intern-list/sap_ixp_intern_software_developer_agentic_ai_llm_systems__at_sap_74432419",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840454",
+      "status": "new"
+    },
+    {
+      "id": "sap-sap-ixp-intern-adoption-excellence-americas",
+      "title": "Sap Ixp Intern Adoption Excellence Americas",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/swe-intern-list/sap_ixp_intern_adoption_excellence_americas_at_sap_74432497",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840465",
+      "status": "new"
+    },
+    {
+      "id": "leidos-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_leidos_74432437",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840474",
+      "status": "new"
+    },
+    {
+      "id": "hp-software-developer-internship",
+      "title": "Software Developer Internship",
+      "company": "Hp",
+      "url": "https://www.intern-list.com/swe-intern-list/software_developer_internship_at_hp_15336759",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840490",
+      "status": "new"
+    },
+    {
+      "id": "mitsubishi-heavy-industries-engineering-integration-associate-internship",
+      "title": "Engineering Integration Associate Internship",
+      "company": "Mitsubishi Heavy Industries",
+      "url": "https://www.intern-list.com/swe-intern-list/engineering_integration_associate_internship_at_mitsubishi_heavy_industries_15336799",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840519",
+      "status": "new"
+    },
+    {
+      "id": "parsons-corporation-financial-systems-integration-intern-spring-2026",
+      "title": "Financial Systems Integration Intern Spring 2026",
+      "company": "Parsons Corporation",
+      "url": "https://www.intern-list.com/swe-intern-list/financial_systems_integration_intern_spring_2026_at_parsons_corporation_75147910",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840530",
+      "status": "new"
+    },
+    {
+      "id": "organon-summer-intern-global-information-technology-procurement",
+      "title": "Summer Intern Global Information Technology Procurement",
+      "company": "Organon",
+      "url": "https://www.intern-list.com/swe-intern-list/summer_intern_global_information_technology_procurement_at_organon_75147983",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840562",
+      "status": "new"
+    },
+    {
+      "id": "parsons-corporation-full-stack-software-developer-intern-summer-2026",
+      "title": "Full Stack Software Developer Intern Summer 2026 ",
+      "company": "Parsons Corporation",
+      "url": "https://www.intern-list.com/swe-intern-list/full_stack_software_developer_intern_summer_2026__at_parsons_corporation_75147996",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840573",
+      "status": "new"
+    },
+    {
+      "id": "s-p-global-summer-intern-software-quality-engineer-early-career",
+      "title": "Summer Intern Software Quality Engineer Early Career ",
+      "company": "S P Global",
+      "url": "https://www.intern-list.com/swe-intern-list/summer_intern_software_quality_engineer_early_career__at_s_p_global_27043030",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840586",
+      "status": "new"
+    },
+    {
+      "id": "mercury-insurance-technology-intern-summer-2026",
+      "title": "Technology Intern Summer 2026",
+      "company": "Mercury Insurance",
+      "url": "https://www.intern-list.com/swe-intern-list/technology_intern_summer_2026_at_mercury_insurance_27043050",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840596",
+      "status": "new"
+    },
+    {
+      "id": "rtx-digital-technology-internship-puerto-rico",
+      "title": "Digital Technology Internship Puerto Rico ",
+      "company": "Rtx",
+      "url": "https://www.intern-list.com/swe-intern-list/digital_technology_internship_puerto_rico__at_rtx_27043073",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840617",
+      "status": "new"
+    },
+    {
+      "id": "canon-usa-software-intern",
+      "title": "Software Intern",
+      "company": "Canon Usa",
+      "url": "https://www.intern-list.com/swe-intern-list/software_intern_at_canon_usa_27043098",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840626",
+      "status": "new"
+    },
+    {
+      "id": "harman-international-summer-intern-software-engineering-vr-domain",
+      "title": "Summer Intern Software Engineering Vr Domain",
+      "company": "Harman International",
+      "url": "https://www.intern-list.com/swe-intern-list/summer_intern_software_engineering_vr_domain_at_harman_international_88128929",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840639",
+      "status": "new"
+    },
+    {
+      "id": "jacobs-intern-agile-software",
+      "title": "Intern Agile Software",
+      "company": "Jacobs",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_agile_software_at_jacobs_88128928",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840649",
+      "status": "new"
+    },
+    {
+      "id": "parsons-corporation-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Parsons Corporation",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_parsons_corporation_88128988",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840658",
+      "status": "new"
+    },
+    {
+      "id": "ametek-software-engineering-intern",
+      "title": "Software Engineering Intern",
+      "company": "Ametek",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineering_intern_at_ametek_88128994",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840666",
+      "status": "new"
+    },
+    {
+      "id": "sap-sap-successfactors-ixp-intern-ai-software-engineer-summer-2026",
+      "title": "Sap Successfactors Ixp Intern Ai Software Engineer Summer 2026 ",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/swe-intern-list/sap_successfactors_ixp_intern_ai_software_engineer_summer_2026__at_sap_48415078",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840687",
+      "status": "new"
+    },
+    {
+      "id": "borgwarner-web-applications-communications-intern-year-round",
+      "title": "Web Applications Communications Intern Year Round ",
+      "company": "Borgwarner",
+      "url": "https://www.intern-list.com/swe-intern-list/web_applications_communications_intern_year_round__at_borgwarner_48415011",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840699",
+      "status": "new"
+    },
+    {
+      "id": "leonardo-drs-senior-technical-intern-algorithm-engineer",
+      "title": "Senior Technical Intern Algorithm Engineer",
+      "company": "Leonardo Drs",
+      "url": "https://www.intern-list.com/swe-intern-list/senior_technical_intern_algorithm_engineer_at_leonardo_drs_48415054",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840715",
+      "status": "new"
+    },
+    {
+      "id": "generac-it-intern-web-development",
+      "title": "It Intern Web Development",
+      "company": "Generac",
+      "url": "https://www.intern-list.com/swe-intern-list/it_intern_web_development_at_generac_48415048",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840724",
+      "status": "new"
+    },
+    {
+      "id": "motorola-solutions-intern-embedded-software-system-and-test-engineer-2026",
+      "title": "Intern Embedded Software System And Test Engineer 2026",
+      "company": "Motorola Solutions",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_embedded_software_system_and_test_engineer_2026_at_motorola_solutions_34794060",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840736",
+      "status": "new"
+    },
+    {
+      "id": "kion-group-procurement-intern",
+      "title": "Procurement Intern",
+      "company": "Kion Group",
+      "url": "https://www.intern-list.com/swe-intern-list/procurement_intern_at_kion_group_34794034",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840754",
+      "status": "new"
+    },
+    {
+      "id": "hyundai-autoever-america-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Hyundai Autoever America",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_hyundai_autoever_america_48415064",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840777",
+      "status": "new"
+    },
+    {
+      "id": "leidos-object-oriented-developer-intern",
+      "title": "Object Oriented Developer Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/swe-intern-list/object_oriented_developer_intern_at_leidos_34794041",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840786",
+      "status": "new"
+    },
+    {
+      "id": "ge-healthcare-full-stack-software-engineering-intern-commercialized-web-applicat",
+      "title": "Full Stack Software Engineering Intern Commercialized Web Applications",
+      "company": "Ge Healthcare",
+      "url": "https://www.intern-list.com/swe-intern-list/full_stack_software_engineering_intern_commercialized_web_applications_at_ge_healthcare_75549481",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840799",
+      "status": "new"
+    },
+    {
+      "id": "paccar-embedded-software-engineering-intern-autonomous-vehicle-program",
+      "title": "Embedded Software Engineering Intern Autonomous Vehicle Program",
+      "company": "Paccar",
+      "url": "https://www.intern-list.com/swe-intern-list/embedded_software_engineering_intern_autonomous_vehicle_program_at_paccar_75549473",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840810",
+      "status": "new"
+    },
+    {
+      "id": "intuitive-manufacturing-software-engineering-intern",
+      "title": "Manufacturing Software Engineering Intern",
+      "company": "Intuitive",
+      "url": "https://www.intern-list.com/swe-intern-list/manufacturing_software_engineering_intern_at_intuitive_75549466",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840819",
+      "status": "new"
+    },
+    {
+      "id": "rtx-intern-summer-2026-digital-technology-hybrid",
+      "title": "Intern Summer 2026 Digital Technology Hybrid ",
+      "company": "Rtx",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_summer_2026_digital_technology_hybrid__at_rtx_75549422",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840830",
+      "status": "new"
+    },
+    {
+      "id": "cbiz-digital-assets-blockchain-intern-fall-2026",
+      "title": "Digital Assets Blockchain Intern Fall 2026",
+      "company": "Cbiz",
+      "url": "https://www.intern-list.com/swe-intern-list/digital_assets_blockchain_intern_fall_2026_at_cbiz_30483463",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840858",
+      "status": "new"
+    },
+    {
+      "id": "viasat-embedded-software-engineering-intern-viasat-government",
+      "title": "Embedded Software Engineering Intern Viasat Government",
+      "company": "Viasat",
+      "url": "https://www.intern-list.com/swe-intern-list/embedded_software_engineering_intern_viasat_government_at_viasat_2880080",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840896",
+      "status": "new"
+    },
+    {
+      "id": "fiserv-technology-summer-intern",
+      "title": "Technology Summer Intern",
+      "company": "Fiserv",
+      "url": "https://www.intern-list.com/swe-intern-list/technology_summer_intern_at_fiserv_2880017",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840905",
+      "status": "new"
+    },
+    {
+      "id": "keysight-technologies-r-d-software-engineer-intern",
+      "title": "R D Software Engineer Intern",
+      "company": "Keysight Technologies",
+      "url": "https://www.intern-list.com/swe-intern-list/r_d_software_engineer_intern_at_keysight_technologies_2880042",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T13:34:00.840917",
+      "status": "new"
+    },
+    {
+      "id": "medpace-clinical-data-intern-spring-2026",
+      "title": "Clinical Data Intern Spring 2026",
+      "company": "Medpace",
+      "url": "https://www.intern-list.com/da-intern-list/clinical_data_intern_spring_2026_at_medpace_64171439",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.992985",
+      "status": "new"
+    },
+    {
+      "id": "imax-enhanced-streaming-consumer-technology-intern-it-enterprise-applications",
+      "title": "Intern It Enterprise Applications",
+      "company": "Imax Enhanced Streaming Consumer Technology",
+      "url": "https://www.intern-list.com/da-intern-list/intern_it_enterprise_applications_at_imax_enhanced_streaming_consumer_technology_64171481",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993006",
+      "status": "new"
+    },
+    {
+      "id": "sandhills-global-data-scientist-intern-in-office-scottsdale-az-only",
+      "title": "Data Scientist Intern In Office Scottsdale Az Only",
+      "company": "Sandhills Global",
+      "url": "https://www.intern-list.com/da-intern-list/data_scientist_intern_in_office_scottsdale_az_only_at_sandhills_global_64171484",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993019",
+      "status": "new"
+    },
+    {
+      "id": "coherent-corp-intern-data-analyst",
+      "title": "Intern Data Analyst",
+      "company": "Coherent Corp ",
+      "url": "https://www.intern-list.com/da-intern-list/intern_data_analyst_at_coherent_corp__64082421",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993030",
+      "status": "new"
+    },
+    {
+      "id": "sap-sap-concur-ixp-intern-business-transformation-analyst",
+      "title": "Sap Concur Ixp Intern Business Transformation Analyst",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/da-intern-list/sap_concur_ixp_intern_business_transformation_analyst_at_sap_64171419",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993041",
+      "status": "new"
+    },
+    {
+      "id": "s-p-global-research-analyst-intern-fuels-chemicals-early-career",
+      "title": "Research Analyst Intern Fuels Chemicals Early Career ",
+      "company": "S P Global",
+      "url": "https://www.intern-list.com/da-intern-list/research_analyst_intern_fuels_chemicals_early_career__at_s_p_global_24687355",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993053",
+      "status": "new"
+    },
+    {
+      "id": "renesas-electronics-time-series-signal-processing-and-data-analyst-intern",
+      "title": "Time Series Signal Processing And Data Analyst Intern",
+      "company": "Renesas Electronics",
+      "url": "https://www.intern-list.com/da-intern-list/time_series_signal_processing_and_data_analyst_intern_at_renesas_electronics_24687360",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993065",
+      "status": "new"
+    },
+    {
+      "id": "rbc-2026-fall-grm-data-science-intern-4-months",
+      "title": "2026 Fall Grm Data Science Intern 4 Months ",
+      "company": "Rbc",
+      "url": "https://www.intern-list.com/da-intern-list/2026_fall_grm_data_science_intern_4_months__at_rbc_24687355",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993076",
+      "status": "new"
+    },
+    {
+      "id": "blue-ridge-bank-intern-artificial-intelligence-credit-risk-analysis",
+      "title": "Intern Artificial Intelligence Credit Risk Analysis ",
+      "company": "Blue Ridge Bank",
+      "url": "https://www.intern-list.com/da-intern-list/intern_artificial_intelligence_credit_risk_analysis__at_blue_ridge_bank_64082448",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993107",
+      "status": "new"
+    },
+    {
+      "id": "stifel-financial-corp-data-analyst-intern-summer-2026",
+      "title": "Data Analyst Intern Summer 2026",
+      "company": "Stifel Financial Corp ",
+      "url": "https://www.intern-list.com/da-intern-list/data_analyst_intern_summer_2026_at_stifel_financial_corp__64082483",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993117",
+      "status": "new"
+    },
+    {
+      "id": "coherent-corp-intern-engineering-data-analysis",
+      "title": "Intern Engineering Data Analysis",
+      "company": "Coherent Corp ",
+      "url": "https://www.intern-list.com/da-intern-list/intern_engineering_data_analysis_at_coherent_corp__64082412",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993127",
+      "status": "new"
+    },
+    {
+      "id": "dassault-systmes-internship-data-science-r-d-operations-software-test-analytics-",
+      "title": "Internship Data Science R D Operations Software Test Analytics Onsite Ri 6mo 2026",
+      "company": "Dassault Systmes",
+      "url": "https://www.intern-list.com/da-intern-list/internship_data_science_r_d_operations_software_test_analytics_onsite_ri_6mo_2026_at_dassault_systmes_64082423",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993141",
+      "status": "new"
+    },
+    {
+      "id": "realty-income-corporation-macroeconomic-data-science-intern",
+      "title": "Macroeconomic Data Science Intern",
+      "company": "Realty Income Corporation",
+      "url": "https://www.intern-list.com/da-intern-list/macroeconomic_data_science_intern_at_realty_income_corporation_64171489",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993151",
+      "status": "new"
+    },
+    {
+      "id": "valero-data-analytics-and-automation-on-going-intern",
+      "title": "Data Analytics And Automation On Going Intern",
+      "company": "Valero",
+      "url": "https://www.intern-list.com/da-intern-list/data_analytics_and_automation_on_going_intern_at_valero_45847984",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993176",
+      "status": "new"
+    },
+    {
+      "id": "bmo-portfolio-insights-analyst-summer-2026-co-op-internship-4-months",
+      "title": "Portfolio Insights Analyst Summer 2026 Co Op Internship 4 Months",
+      "company": "Bmo",
+      "url": "https://www.intern-list.com/da-intern-list/portfolio_insights_analyst_summer_2026_co_op_internship_4_months_at_bmo_45847910",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993187",
+      "status": "new"
+    },
+    {
+      "id": "coherent-corp-intern-data-scientist",
+      "title": "Intern Data Scientist",
+      "company": "Coherent Corp ",
+      "url": "https://www.intern-list.com/da-intern-list/intern_data_scientist_at_coherent_corp__45847935",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993197",
+      "status": "new"
+    },
+    {
+      "id": "bnp-paribas-2027-summer-analyst-internship-global-banking-transaction-banking",
+      "title": "2027 Summer Analyst Internship Global Banking Transaction Banking",
+      "company": "Bnp Paribas",
+      "url": "https://www.intern-list.com/da-intern-list/2027_summer_analyst_internship_global_banking_transaction_banking_at_bnp_paribas_45847933",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993208",
+      "status": "new"
+    },
+    {
+      "id": "borgwarner-data-science-intern-year-round",
+      "title": "Data Science Intern Year Round ",
+      "company": "Borgwarner",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_intern_year_round__at_borgwarner_13200057",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993218",
+      "status": "new"
+    },
+    {
+      "id": "leidos-data-science-decision-science-intern",
+      "title": "Data Science Decision Science Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_decision_science_intern_at_leidos_13200018",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993227",
+      "status": "new"
+    },
+    {
+      "id": "leidos-internal-audit-data-analytics-automation-intern",
+      "title": "Internal Audit Data Analytics Automation Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/da-intern-list/internal_audit_data_analytics_automation_intern_at_leidos_13200016",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993237",
+      "status": "new"
+    },
+    {
+      "id": "primo-brands-customer-experience-and-data-insights-intern",
+      "title": "Customer Experience And Data Insights Intern",
+      "company": "Primo Brands",
+      "url": "https://www.intern-list.com/da-intern-list/customer_experience_and_data_insights_intern_at_primo_brands_51101547",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993267",
+      "status": "new"
+    },
+    {
+      "id": "sap-sap-ixp-intern-data-analysis-comms-project-management-services-sales",
+      "title": "Sap Ixp Intern Data Analysis Comms Project Management Services Sales",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/da-intern-list/sap_ixp_intern_data_analysis_comms_project_management_services_sales_at_sap_51101572",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993279",
+      "status": "new"
+    },
+    {
+      "id": "albany-international-corp-it-intern-corporate",
+      "title": "It Intern Corporate",
+      "company": "Albany International Corp ",
+      "url": "https://www.intern-list.com/da-intern-list/it_intern_corporate_at_albany_international_corp__51101526",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993289",
+      "status": "new"
+    },
+    {
+      "id": "ingram-micro-summer-intern-business-analyst",
+      "title": "Summer Intern Business Analyst",
+      "company": "Ingram Micro",
+      "url": "https://www.intern-list.com/da-intern-list/summer_intern_business_analyst_at_ingram_micro_39277681",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993299",
+      "status": "new"
+    },
+    {
+      "id": "ryder-system-inc-data-and-bi-specialist-intern",
+      "title": "Data And Bi Specialist Intern",
+      "company": "Ryder System Inc ",
+      "url": "https://www.intern-list.com/da-intern-list/data_and_bi_specialist_intern_at_ryder_system_inc__39277640",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993308",
+      "status": "new"
+    },
+    {
+      "id": "conair-llc-2026-amazon-analytics-intern",
+      "title": "2026 Amazon Analytics Intern",
+      "company": "Conair Llc",
+      "url": "https://www.intern-list.com/da-intern-list/2026_amazon_analytics_intern_at_conair_llc_39277613",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993317",
+      "status": "new"
+    },
+    {
+      "id": "calamos-investments-quantitative-research-intern",
+      "title": "Quantitative Research Intern",
+      "company": "Calamos Investments",
+      "url": "https://www.intern-list.com/da-intern-list/quantitative_research_intern_at_calamos_investments_39277632",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993336",
+      "status": "new"
+    },
+    {
+      "id": "digital-realty-intern",
+      "title": "Intern",
+      "company": "Digital Realty",
+      "url": "https://www.intern-list.com/da-intern-list/intern_at_digital_realty_51101562",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993343",
+      "status": "new"
+    },
+    {
+      "id": "scotiabank-canadian-banking-technology-analysis-internship-co-op-fall-2026",
+      "title": "Canadian Banking Technology Analysis Internship Co Op Fall 2026",
+      "company": "Scotiabank",
+      "url": "https://www.intern-list.com/da-intern-list/canadian_banking_technology_analysis_internship_co_op_fall_2026_at_scotiabank_51101516",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993354",
+      "status": "new"
+    },
+    {
+      "id": "dassault-systmes-internship-data-science-6mo-june-2026",
+      "title": "Internship Data Science 6mo June 2026 ",
+      "company": "Dassault Systmes",
+      "url": "https://www.intern-list.com/da-intern-list/internship_data_science_6mo_june_2026__at_dassault_systmes_26061171",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993365",
+      "status": "new"
+    },
+    {
+      "id": "delta-air-lines-intern-revenue-tech-and-data-analytics-atl-summer-2026",
+      "title": "Intern Revenue Tech And Data Analytics Atl Summer 2026 ",
+      "company": "Delta Air Lines",
+      "url": "https://www.intern-list.com/da-intern-list/intern_revenue_tech_and_data_analytics_atl_summer_2026__at_delta_air_lines_26061142",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993377",
+      "status": "new"
+    },
+    {
+      "id": "schneider-electric-summer-2026-business-data-analyst-intern",
+      "title": "Summer 2026 Business Data Analyst Intern",
+      "company": "Schneider Electric",
+      "url": "https://www.intern-list.com/da-intern-list/summer_2026_business_data_analyst_intern_at_schneider_electric_10983956",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993386",
+      "status": "new"
+    },
+    {
+      "id": "tapestry-intern",
+      "title": "Intern",
+      "company": "Tapestry",
+      "url": "https://www.intern-list.com/da-intern-list/intern_at_tapestry_10983973",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993393",
+      "status": "new"
+    },
+    {
+      "id": "quest-diagnostics-enterprise-business-analytics-internship",
+      "title": "Enterprise Business Analytics Internship",
+      "company": "Quest Diagnostics",
+      "url": "https://www.intern-list.com/da-intern-list/enterprise_business_analytics_internship_at_quest_diagnostics_10983972",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993403",
+      "status": "new"
+    },
+    {
+      "id": "littelfuse-data-analyst-intern-electrical-industrial-infrastructure",
+      "title": "Data Analyst Intern Electrical Industrial Infrastructure",
+      "company": "Littelfuse",
+      "url": "https://www.intern-list.com/da-intern-list/data_analyst_intern_electrical_industrial_infrastructure_at_littelfuse_10984028",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993423",
+      "status": "new"
+    },
+    {
+      "id": "philips-business-commercial-operations-intern-mississauga-on",
+      "title": "Business Commercial Operations Intern Mississauga On ",
+      "company": "Philips",
+      "url": "https://www.intern-list.com/da-intern-list/business_commercial_operations_intern_mississauga_on__at_philips_83430648",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993433",
+      "status": "new"
+    },
+    {
+      "id": "coach-intern",
+      "title": "Intern",
+      "company": "Coach",
+      "url": "https://www.intern-list.com/da-intern-list/intern_at_coach_83430672",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993440",
+      "status": "new"
+    },
+    {
+      "id": "pacific-gas-and-electric-company-data-visualization-engineer-intern",
+      "title": "Data Visualization Engineer Intern",
+      "company": "Pacific Gas And Electric Company",
+      "url": "https://www.intern-list.com/da-intern-list/data_visualization_engineer_intern_at_pacific_gas_and_electric_company_26061169",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993459",
+      "status": "new"
+    },
+    {
+      "id": "mackenzie-investments-fall-intern-2026-data-science-toronto-office",
+      "title": "Fall Intern 2026 Data Science Toronto Office ",
+      "company": "Mackenzie Investments",
+      "url": "https://www.intern-list.com/da-intern-list/fall_intern_2026_data_science_toronto_office__at_mackenzie_investments_26061154",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993480",
+      "status": "new"
+    },
+    {
+      "id": "glencore-intern-analytics",
+      "title": "Intern Analytics",
+      "company": "Glencore",
+      "url": "https://www.intern-list.com/da-intern-list/intern_analytics_at_glencore_83430640",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993487",
+      "status": "new"
+    },
+    {
+      "id": "accuray-data-science-intern",
+      "title": "Data Science Intern",
+      "company": "Accuray",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_intern_at_accuray_83430686",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993496",
+      "status": "new"
+    },
+    {
+      "id": "ss-c-technologies-quantitative-research-intern",
+      "title": "Quantitative Research Intern",
+      "company": "Ss C Technologies",
+      "url": "https://www.intern-list.com/da-intern-list/quantitative_research_intern_at_ss_c_technologies_84019618",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993505",
+      "status": "new"
+    },
+    {
+      "id": "reckitt-2026-it-summer-internship-nutley-nj-usa",
+      "title": "2026 It Summer Internship Nutley Nj Usa",
+      "company": "Reckitt",
+      "url": "https://www.intern-list.com/da-intern-list/2026_it_summer_internship_nutley_nj_usa_at_reckitt_35700482",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993548",
+      "status": "new"
+    },
+    {
+      "id": "amdocs-summer-intern-bell-business-operations-team",
+      "title": "Summer Intern Bell Business Operations Team ",
+      "company": "Amdocs",
+      "url": "https://www.intern-list.com/da-intern-list/summer_intern_bell_business_operations_team__at_amdocs_35700463",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993558",
+      "status": "new"
+    },
+    {
+      "id": "rtx-summer-2026-data-science-intern-remote",
+      "title": "Summer 2026 Data Science Intern Remote ",
+      "company": "Rtx",
+      "url": "https://www.intern-list.com/da-intern-list/summer_2026_data_science_intern_remote__at_rtx_35700490",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993568",
+      "status": "new"
+    },
+    {
+      "id": "accuray-product-data-analysis-intern",
+      "title": "Product Data Analysis Intern",
+      "company": "Accuray",
+      "url": "https://www.intern-list.com/da-intern-list/product_data_analysis_intern_at_accuray_35700466",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993587",
+      "status": "new"
+    },
+    {
+      "id": "peet-s-coffee-retail-operations-data-analyst-intern",
+      "title": "Retail Operations Data Analyst Intern",
+      "company": "Peet S Coffee",
+      "url": "https://www.intern-list.com/da-intern-list/retail_operations_data_analyst_intern_at_peet_s_coffee_81399511",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993596",
+      "status": "new"
+    },
+    {
+      "id": "leidos-data-management-intern",
+      "title": "Data Management Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/da-intern-list/data_management_intern_at_leidos_81399577",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993605",
+      "status": "new"
+    },
+    {
+      "id": "keysight-technologies-r-d-data-analytics-engineering-intern",
+      "title": "R D Data Analytics Engineering Intern",
+      "company": "Keysight Technologies",
+      "url": "https://www.intern-list.com/da-intern-list/r_d_data_analytics_engineering_intern_at_keysight_technologies_81399592",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993615",
+      "status": "new"
+    },
+    {
+      "id": "xpo-data-science-intern",
+      "title": "Data Science Intern",
+      "company": "Xpo",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_intern_at_xpo_81399576",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993632",
+      "status": "new"
+    },
+    {
+      "id": "costco-wholesale-cds-intern-it-data-science",
+      "title": "Cds Intern It Data Science",
+      "company": "Costco Wholesale",
+      "url": "https://www.intern-list.com/da-intern-list/cds_intern_it_data_science_at_costco_wholesale_35539412",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993642",
+      "status": "new"
+    },
+    {
+      "id": "tmx-group-fixed-income-and-reference-data-analyst-intern-summer-2026",
+      "title": "Fixed Income And Reference Data Analyst Intern Summer 2026 ",
+      "company": "Tmx Group",
+      "url": "https://www.intern-list.com/da-intern-list/fixed_income_and_reference_data_analyst_intern_summer_2026__at_tmx_group_35539413",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993653",
+      "status": "new"
+    },
+    {
+      "id": "sonoco-ai-analytics-intern",
+      "title": "Ai Analytics Intern",
+      "company": "Sonoco",
+      "url": "https://www.intern-list.com/da-intern-list/ai_analytics_intern_at_sonoco_35539565",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993671",
+      "status": "new"
+    },
+    {
+      "id": "schneider-electric-business-process-digital-enablement-intern",
+      "title": "Business Process Digital Enablement Intern",
+      "company": "Schneider Electric",
+      "url": "https://www.intern-list.com/da-intern-list/business_process_digital_enablement_intern_at_schneider_electric_35539569",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993681",
+      "status": "new"
+    },
+    {
+      "id": "sap-sap-ixp-intern-sap-research-operations-specialist-intern",
+      "title": "Sap Ixp Intern Sap Research Operations Specialist Intern",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/da-intern-list/sap_ixp_intern_sap_research_operations_specialist_intern_at_sap_54925976",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993699",
+      "status": "new"
+    },
+    {
+      "id": "dassault-systmes-revops-intern",
+      "title": "Revops Intern",
+      "company": "Dassault Systmes",
+      "url": "https://www.intern-list.com/da-intern-list/revops_intern_at_dassault_systmes_54925922",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993707",
+      "status": "new"
+    },
+    {
+      "id": "rxo-inc-solutions-ai-intern",
+      "title": "Solutions Ai Intern",
+      "company": "Rxo Inc ",
+      "url": "https://www.intern-list.com/da-intern-list/solutions_ai_intern_at_rxo_inc__54925944",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993716",
+      "status": "new"
+    },
+    {
+      "id": "dassault-systmes-technical-business-analyst-intern",
+      "title": "Technical Business Analyst Intern",
+      "company": "Dassault Systmes",
+      "url": "https://www.intern-list.com/da-intern-list/technical_business_analyst_intern_at_dassault_systmes_54925918",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993725",
+      "status": "new"
+    },
+    {
+      "id": "dassault-systmes-clinical-research-assistant-intern-hybrid",
+      "title": "Clinical Research Assistant Intern Hybrid ",
+      "company": "Dassault Systmes",
+      "url": "https://www.intern-list.com/da-intern-list/clinical_research_assistant_intern_hybrid__at_dassault_systmes_54925930",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993736",
+      "status": "new"
+    },
+    {
+      "id": "dsm-firmenich-summer-2026-internship-data-science-long-island-city-ny",
+      "title": "Summer 2026 Internship Data Science Long Island City Ny",
+      "company": "Dsm Firmenich",
+      "url": "https://www.intern-list.com/da-intern-list/summer_2026_internship_data_science_long_island_city_ny_at_dsm_firmenich_93823465",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993759",
+      "status": "new"
+    },
+    {
+      "id": "altera-data-analytics-intern",
+      "title": "Data Analytics Intern",
+      "company": "Altera",
+      "url": "https://www.intern-list.com/da-intern-list/data_analytics_intern_at_altera_63968618",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993767",
+      "status": "new"
+    },
+    {
+      "id": "abb-stagiaire-spcialiste-en-intelligence-d-affaires-t-2026",
+      "title": "Stagiaire Spcialiste En Intelligence D Affaires T 2026 ",
+      "company": "Abb",
+      "url": "https://www.intern-list.com/da-intern-list/stagiaire_spcialiste_en_intelligence_d_affaires_t_2026__at_abb_63968620",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993778",
+      "status": "new"
+    },
+    {
+      "id": "iff-consumer-and-market-insights-intern",
+      "title": "Consumer And Market Insights Intern",
+      "company": "Iff",
+      "url": "https://www.intern-list.com/da-intern-list/consumer_and_market_insights_intern_at_iff_63968693",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993790",
+      "status": "new"
+    },
+    {
+      "id": "booz-allen-hamilton-ai-data-analyst-intern",
+      "title": "Ai Data Analyst Intern",
+      "company": "Booz Allen Hamilton",
+      "url": "https://www.intern-list.com/da-intern-list/ai_data_analyst_intern_at_booz_allen_hamilton_63968656",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993807",
+      "status": "new"
+    },
+    {
+      "id": "moog-inc-intern-it-computer-science-data-analytics",
+      "title": "Intern It Computer Science Data Analytics",
+      "company": "Moog Inc ",
+      "url": "https://www.intern-list.com/da-intern-list/intern_it_computer_science_data_analytics_at_moog_inc__93823425",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993819",
+      "status": "new"
+    },
+    {
+      "id": "lenovo-iso-north-america-alliances-intern",
+      "title": "Iso North America Alliances Intern",
+      "company": "Lenovo",
+      "url": "https://www.intern-list.com/da-intern-list/iso_north_america_alliances_intern_at_lenovo_93823482",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993828",
+      "status": "new"
+    },
+    {
+      "id": "teledyne-technologies-incorporated-business-data-analyst-report-automation-focus",
+      "title": "Business Data Analyst Report Automation Focus Intern ",
+      "company": "Teledyne Technologies Incorporated",
+      "url": "https://www.intern-list.com/da-intern-list/business_data_analyst_report_automation_focus_intern__at_teledyne_technologies_incorporated_80297250",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993839",
+      "status": "new"
+    },
+    {
+      "id": "the-walt-disney-company-finance-data-analytics-intern-summer-fall-2026",
+      "title": "Finance Data Analytics Intern Summer Fall 2026",
+      "company": "The Walt Disney Company",
+      "url": "https://www.intern-list.com/da-intern-list/finance_data_analytics_intern_summer_fall_2026_at_the_walt_disney_company_80297268",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993850",
+      "status": "new"
+    },
+    {
+      "id": "applied-materials-data-science-optimization-intern",
+      "title": "Data Science Optimization Intern",
+      "company": "Applied Materials",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_optimization_intern_at_applied_materials_80297275",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993859",
+      "status": "new"
+    },
+    {
+      "id": "equity-lifestyle-properties-inc-data-administrative-analyst-intern",
+      "title": "Data Administrative Analyst Intern",
+      "company": "Equity Lifestyle Properties Inc ",
+      "url": "https://www.intern-list.com/da-intern-list/data_administrative_analyst_intern_at_equity_lifestyle_properties_inc__80297254",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993870",
+      "status": "new"
+    },
+    {
+      "id": "ibm-data-scientist-internship-2026",
+      "title": "Data Scientist Internship 2026",
+      "company": "Ibm",
+      "url": "https://www.intern-list.com/da-intern-list/data_scientist_internship_2026_at_ibm_80297262",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993878",
+      "status": "new"
+    },
+    {
+      "id": "takeda-2026-summer-internship-program-analytical-development-mass-spectrometry-i",
+      "title": "2026 Summer Internship Program Analytical Development Mass Spectrometry Informatics Intern",
+      "company": "Takeda",
+      "url": "https://www.intern-list.com/da-intern-list/2026_summer_internship_program_analytical_development_mass_spectrometry_informatics_intern_at_takeda_15921158",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993893",
+      "status": "new"
+    },
+    {
+      "id": "the-walt-disney-company-finance-and-analytics-intern-summer-fall-2026",
+      "title": "Finance And Analytics Intern Summer Fall 2026",
+      "company": "The Walt Disney Company",
+      "url": "https://www.intern-list.com/da-intern-list/finance_and_analytics_intern_summer_fall_2026_at_the_walt_disney_company_15921185",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993904",
+      "status": "new"
+    },
+    {
+      "id": "dsm-firmenich-summer-2026-internship-data-science-intern-princeton-nj",
+      "title": "Summer 2026 Internship Data Science Intern Princeton Nj",
+      "company": "Dsm Firmenich",
+      "url": "https://www.intern-list.com/da-intern-list/summer_2026_internship_data_science_intern_princeton_nj_at_dsm_firmenich_15921188",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993916",
+      "status": "new"
+    },
+    {
+      "id": "amcor-business-intelligence-intern",
+      "title": "Business Intelligence Intern",
+      "company": "Amcor",
+      "url": "https://www.intern-list.com/da-intern-list/business_intelligence_intern_at_amcor_15921196",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993925",
+      "status": "new"
+    },
+    {
+      "id": "west-fraser-automation-data-analytics-intern-summer-2026",
+      "title": "Automation Data Analytics Intern Summer 2026",
+      "company": "West Fraser",
+      "url": "https://www.intern-list.com/da-intern-list/automation_data_analytics_intern_summer_2026_at_west_fraser_15921136",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993935",
+      "status": "new"
+    },
+    {
+      "id": "acxiom-intern-decision-support-analyst-summer-2026",
+      "title": "Intern Decision Support Analyst Summer 2026",
+      "company": "Acxiom",
+      "url": "https://www.intern-list.com/da-intern-list/intern_decision_support_analyst_summer_2026_at_acxiom_75987112",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993944",
+      "status": "new"
+    },
+    {
+      "id": "icf-2026-summer-intern-technology-analytics",
+      "title": "2026 Summer Intern Technology Analytics",
+      "company": "Icf",
+      "url": "https://www.intern-list.com/da-intern-list/2026_summer_intern_technology_analytics_at_icf_75987156",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993962",
+      "status": "new"
+    },
+    {
+      "id": "ge-healthcare-research-intern",
+      "title": "Research Intern",
+      "company": "Ge Healthcare",
+      "url": "https://www.intern-list.com/da-intern-list/research_intern_at_ge_healthcare_75987198",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-27T13:34:04.993970",
       "status": "new"
     }
   ],
-  "last_updated": "2026-04-27T17:04:04.980245"
+  "last_updated": "2026-04-27T13:34:07.514566"
 }
