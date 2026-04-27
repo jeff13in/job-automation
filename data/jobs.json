@@ -750,7 +750,20 @@
       ],
       "discovered_date": "2026-04-26T02:12:00.432714",
       "status": "new"
+    },
+    {
+      "id": "finalis-software-engineer",
+      "title": "Software Engineer",
+      "company": "Finalis",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-finalis-1131328",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-27T00:02:40.260792",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-04-26T23:05:07.201312"
+  "last_updated": "2026-04-27T00:02:44.752977"
 }
