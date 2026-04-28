@@ -2830,7 +2830,34 @@
       ],
       "discovered_date": "2026-04-28T10:30:00.561127",
       "status": "new"
+    },
+    {
+      "id": "calabrio-engineer-software",
+      "title": "Engineer Software",
+      "company": "Calabrio",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-28T17:10:18.330601",
+      "status": "new"
+    },
+    {
+      "id": "veeam-software-sr-account-executive-commercial-accounts",
+      "title": "Sr Account Executive Commercial Accounts",
+      "company": "Veeam Software",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-account-executive-commercial-accounts-veeam-software-1131341",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-28T17:10:18.330640",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-04-28T15:04:11.688985"
+  "last_updated": "2026-04-28T17:10:30.658396"
 }
