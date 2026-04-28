@@ -2739,7 +2739,98 @@
       ],
       "discovered_date": "2026-04-28T02:29:43.863884",
       "status": "new"
+    },
+    {
+      "id": "general-dynamics-intern-engineer-co-op",
+      "title": "Intern Engineer Co Op ",
+      "company": "General Dynamics",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_engineer_co_op__at_general_dynamics_39780265",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-28T10:29:56.460495",
+      "status": "new"
+    },
+    {
+      "id": "ss-c-technologies-quality-assurance-intern",
+      "title": "Quality Assurance Intern",
+      "company": "Ss C Technologies",
+      "url": "https://www.intern-list.com/swe-intern-list/quality_assurance_intern_at_ss_c_technologies_39780292",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-28T10:29:56.460541",
+      "status": "new"
+    },
+    {
+      "id": "anritsu-software-development-engineer-intern",
+      "title": "Software Development Engineer Intern",
+      "company": "Anritsu",
+      "url": "https://www.intern-list.com/swe-intern-list/software_development_engineer_intern_at_anritsu_39780279",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-28T10:29:56.460556",
+      "status": "new"
+    },
+    {
+      "id": "sallie-mae-business-analytics-intern",
+      "title": "Business Analytics Intern",
+      "company": "Sallie Mae",
+      "url": "https://www.intern-list.com/da-intern-list/business_analytics_intern_at_sallie_mae_54456263",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-28T10:30:00.561053",
+      "status": "new"
+    },
+    {
+      "id": "onto-innovation-data-analytics-internship",
+      "title": "Data Analytics Internship",
+      "company": "Onto Innovation",
+      "url": "https://www.intern-list.com/da-intern-list/data_analytics_internship_at_onto_innovation_54456223",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-28T10:30:00.561094",
+      "status": "new"
+    },
+    {
+      "id": "brunswick-corporation-data-science-intern",
+      "title": "Data Science Intern",
+      "company": "Brunswick Corporation",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_intern_at_brunswick_corporation_54456287",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-28T10:30:00.561113",
+      "status": "new"
+    },
+    {
+      "id": "conair-llc-2026-consumer-insights-intern",
+      "title": "2026 Consumer Insights Intern",
+      "company": "Conair Llc",
+      "url": "https://www.intern-list.com/da-intern-list/2026_consumer_insights_intern_at_conair_llc_54456227",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-28T10:30:00.561127",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-04-28T08:15:47.919705"
+  "last_updated": "2026-04-28T10:30:02.926588"
 }
