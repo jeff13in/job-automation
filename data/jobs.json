@@ -2857,7 +2857,98 @@
       ],
       "discovered_date": "2026-04-28T17:10:18.330640",
       "status": "new"
+    },
+    {
+      "id": "gen-software-engineer-intern-nortonlifelock",
+      "title": "Software Engineer Intern Nortonlifelock",
+      "company": "Gen",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_nortonlifelock_at_gen_28649345",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-29T10:23:31.124698",
+      "status": "new"
+    },
+    {
+      "id": "applied-materials-java-developer-intern",
+      "title": "Java Developer Intern",
+      "company": "Applied Materials",
+      "url": "https://www.intern-list.com/swe-intern-list/java_developer_intern_at_applied_materials_28649357",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-29T10:23:31.124729",
+      "status": "new"
+    },
+    {
+      "id": "thales-intern-quality-assurance",
+      "title": "Intern Quality Assurance",
+      "company": "Thales",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_quality_assurance_at_thales_28649338",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-29T10:23:31.124744",
+      "status": "new"
+    },
+    {
+      "id": "av-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Av",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_av_28649319",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-29T10:23:31.124758",
+      "status": "new"
+    },
+    {
+      "id": "leidos-data-analytics-summer-intern",
+      "title": "Data Analytics Summer Intern",
+      "company": "Leidos",
+      "url": "https://www.intern-list.com/da-intern-list/data_analytics_summer_intern_at_leidos_38123676",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-29T10:23:34.999110",
+      "status": "new"
+    },
+    {
+      "id": "mercury-insurance-r-d-intern-summer-2026",
+      "title": "R D Intern Summer 2026",
+      "company": "Mercury Insurance",
+      "url": "https://www.intern-list.com/da-intern-list/r_d_intern_summer_2026_at_mercury_insurance_38123656",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-29T10:23:34.999138",
+      "status": "new"
+    },
+    {
+      "id": "fresenius-medical-care-business-analyst-intern",
+      "title": "Business Analyst Intern",
+      "company": "Fresenius Medical Care",
+      "url": "https://www.intern-list.com/da-intern-list/business_analyst_intern_at_fresenius_medical_care_38123664",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-29T10:23:34.999153",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-04-29T08:08:24.377353"
+  "last_updated": "2026-04-29T10:23:37.364235"
 }
