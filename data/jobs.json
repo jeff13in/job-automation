@@ -2974,7 +2974,124 @@
       ],
       "discovered_date": "2026-04-30T08:12:37.079162",
       "status": "new"
+    },
+    {
+      "id": "paperpile-backend-engineer",
+      "title": "Backend Engineer",
+      "company": "Paperpile",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-engineer-paperpile-1131382",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-30T10:23:43.257549",
+      "status": "new"
+    },
+    {
+      "id": "paperpile-senior-full-stack-engineer",
+      "title": "Senior Full Stack Engineer",
+      "company": "Paperpile",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-paperpile-1131381",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-30T10:23:43.257608",
+      "status": "new"
+    },
+    {
+      "id": "general-dynamics-sw-engineering-intern",
+      "title": "Sw Engineering Intern",
+      "company": "General Dynamics",
+      "url": "https://www.intern-list.com/swe-intern-list/sw_engineering_intern_at_general_dynamics_84329869",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-30T10:23:45.543828",
+      "status": "new"
+    },
+    {
+      "id": "nokia-software-designer-co-op-intern",
+      "title": "Software Designer Co Op Intern",
+      "company": "Nokia",
+      "url": "https://www.intern-list.com/swe-intern-list/software_designer_co_op_intern_at_nokia_84329862",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-30T10:23:45.543869",
+      "status": "new"
+    },
+    {
+      "id": "nokia-tools-and-automation-sw-dev-co-op-intern",
+      "title": "Tools And Automation Sw Dev Co Op Intern",
+      "company": "Nokia",
+      "url": "https://www.intern-list.com/swe-intern-list/tools_and_automation_sw_dev_co_op_intern_at_nokia_84329832",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-30T10:23:45.543885",
+      "status": "new"
+    },
+    {
+      "id": "assembly-biosciences-inc-summer-intern-bioinformatics-and-data-science",
+      "title": "Summer Intern Bioinformatics And Data Science",
+      "company": "Assembly Biosciences Inc ",
+      "url": "https://www.intern-list.com/da-intern-list/summer_intern_bioinformatics_and_data_science_at_assembly_biosciences_inc__95988785",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-30T10:23:49.503520",
+      "status": "new"
+    },
+    {
+      "id": "starz-starz-intern-content-insights",
+      "title": "Starz Intern Content Insights",
+      "company": "Starz",
+      "url": "https://www.intern-list.com/da-intern-list/starz_intern_content_insights_at_starz_95988830",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-30T10:23:49.503541",
+      "status": "new"
+    },
+    {
+      "id": "gildan-intern-data-distribution",
+      "title": "Intern Data Distribution",
+      "company": "Gildan",
+      "url": "https://www.intern-list.com/da-intern-list/intern_data_distribution_at_gildan_95988876",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-04-30T10:23:49.503555",
+      "status": "new"
+    },
+    {
+      "id": "nfp-an-aon-company-2026-summer-data-analytics-actuarial-intern",
+      "title": "2026 Summer Data Analytics Actuarial Intern",
+      "company": "Nfp An Aon Company",
+      "url": "https://www.intern-list.com/da-intern-list/2026_summer_data_analytics_actuarial_intern_at_nfp_an_aon_company_95988834",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-04-30T10:23:49.503577",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-04-30T08:12:46.992306"
+  "last_updated": "2026-04-30T10:23:51.759740"
 }
