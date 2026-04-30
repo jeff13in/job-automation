@@ -2948,7 +2948,20 @@
       ],
       "discovered_date": "2026-04-29T10:23:34.999153",
       "status": "new"
+    },
+    {
+      "id": "honor-foods-front-end-full-stack-developer",
+      "title": "Front End Full Stack Developer",
+      "company": "Honor Foods",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-end-full-stack-developer-honor-foods-1131370",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-30T02:30:44.187424",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-04-29T23:51:05.385421"
+  "last_updated": "2026-04-30T02:30:54.345073"
 }
