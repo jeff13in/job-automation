@@ -3104,7 +3104,20 @@
       ],
       "discovered_date": "2026-04-30T17:15:26.263884",
       "status": "new"
+    },
+    {
+      "id": "clouddevs-full-stack-backend-developers-llm-focused",
+      "title": "Full-stack/Backend developers LLM focused.",
+      "company": "CloudDevs",
+      "url": "https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-04-30T18:51:44.482601",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-04-30T17:15:33.865891"
+  "last_updated": "2026-04-30T18:51:50.972580"
 }
