@@ -3247,7 +3247,33 @@
       ],
       "discovered_date": "2026-05-01T14:35:53.383861",
       "status": "new"
+    },
+    {
+      "id": "haast-founding-engineer",
+      "title": "Founding Engineer",
+      "company": "Haast",
+      "url": "https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-01T16:52:42.363223",
+      "status": "new"
+    },
+    {
+      "id": "vonage-strategic-business-development-consultant",
+      "title": "Strategic Business Development Consultant",
+      "company": "Vonage",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-business-development-consultant-vonage-1131403",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-01T16:52:42.801421",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-01T15:52:41.339506"
+  "last_updated": "2026-05-01T16:52:49.701386"
 }
