@@ -3234,7 +3234,20 @@
       ],
       "discovered_date": "2026-05-01T08:28:14.687990",
       "status": "new"
+    },
+    {
+      "id": "lemon-io-senior-devops-engineer",
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002",
+      "location": "Americas, Europe, Asia, Oceania",
+      "source": "remotive",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-01T14:35:53.383861",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-01T13:09:13.831934"
+  "last_updated": "2026-05-01T14:36:00.911025"
 }
