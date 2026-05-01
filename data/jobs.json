@@ -3117,7 +3117,124 @@
       ],
       "discovered_date": "2026-04-30T18:51:44.482601",
       "status": "new"
+    },
+    {
+      "id": "paragon-product-marketing-lead",
+      "title": "Product Marketing Lead",
+      "company": "Paragon",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-01T08:28:05.261450",
+      "status": "new"
+    },
+    {
+      "id": "gen-software-engineer-intern",
+      "title": "Software Engineer Intern",
+      "company": "Gen",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_intern_at_gen_64023167",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-01T08:28:09.904916",
+      "status": "new"
+    },
+    {
+      "id": "hp-software-engineering-intern",
+      "title": "Software Engineering Intern",
+      "company": "Hp",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineering_intern_at_hp_64023197",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-01T08:28:09.904939",
+      "status": "new"
+    },
+    {
+      "id": "general-dynamics-software-engineer-entry-level-intern-conversion",
+      "title": "Software Engineer Entry Level Intern Conversion",
+      "company": "General Dynamics",
+      "url": "https://www.intern-list.com/swe-intern-list/software_engineer_entry_level_intern_conversion_at_general_dynamics_64023136",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-01T08:28:09.904962",
+      "status": "new"
+    },
+    {
+      "id": "nokia-software-tester-co-op-intern",
+      "title": "Software Tester Co Op Intern",
+      "company": "Nokia",
+      "url": "https://www.intern-list.com/swe-intern-list/software_tester_co_op_intern_at_nokia_64023121",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-01T08:28:09.905055",
+      "status": "new"
+    },
+    {
+      "id": "yamaha-corporation-digital-analytics-intern",
+      "title": "Digital Analytics Intern",
+      "company": "Yamaha Corporation",
+      "url": "https://www.intern-list.com/da-intern-list/digital_analytics_intern_at_yamaha_corporation_2697260",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-01T08:28:14.687841",
+      "status": "new"
+    },
+    {
+      "id": "lg-electronics-intern-human-resources-hr-compensation-new-jersey-location",
+      "title": "Intern Human Resources Hr Compensation New Jersey Location",
+      "company": "Lg Electronics",
+      "url": "https://www.intern-list.com/da-intern-list/intern_human_resources_hr_compensation_new_jersey_location_at_lg_electronics_2697257",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-01T08:28:14.687883",
+      "status": "new"
+    },
+    {
+      "id": "bae-systems-technical-intern-3",
+      "title": "Technical Intern 3",
+      "company": "Bae Systems",
+      "url": "https://www.intern-list.com/da-intern-list/technical_intern_3_at_bae_systems_2697213",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-01T08:28:14.687902",
+      "status": "new"
+    },
+    {
+      "id": "bio-rad-laboratories-data-science-intern",
+      "title": "Data Science Intern",
+      "company": "Bio Rad Laboratories",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_intern_at_bio_rad_laboratories_2697214",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-01T08:28:14.687990",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-01T06:12:05.906622"
+  "last_updated": "2026-05-01T08:28:17.093958"
 }
