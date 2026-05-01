@@ -3273,7 +3273,20 @@
       ],
       "discovered_date": "2026-05-01T16:52:42.801421",
       "status": "new"
+    },
+    {
+      "id": "a-team-senior-independent-software-developer-90-170-hr",
+      "title": "Senior Independent Software Developer ($90-$170/hr)",
+      "company": "A.Team",
+      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-01T21:12:56.418884",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-01T20:14:05.000588"
+  "last_updated": "2026-05-01T21:13:03.849867"
 }
