@@ -3403,7 +3403,20 @@
       ],
       "discovered_date": "2026-05-02T16:07:51.780047",
       "status": "new"
+    },
+    {
+      "id": "miragon-full-stack-developer-m-w-d",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "Miragon",
+      "url": "https://weworkremotely.com/remote-jobs/miragon-full-stack-developer-m-w-d",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-02T19:33:25.557196",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-02T18:08:18.601579"
+  "last_updated": "2026-05-02T19:33:32.209481"
 }
