@@ -3299,7 +3299,85 @@
       ],
       "discovered_date": "2026-05-02T08:05:09.977756",
       "status": "new"
+    },
+    {
+      "id": "sap-sap-ixp-intern-enterprise-architecture-enablement",
+      "title": "Sap Ixp Intern Enterprise Architecture Enablement",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/swe-intern-list/sap_ixp_intern_enterprise_architecture_enablement_at_sap_46422540",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-02T09:38:57.923807",
+      "status": "new"
+    },
+    {
+      "id": "ses-satellites-intern-aviation-software-engineering",
+      "title": "Intern Aviation Software Engineering",
+      "company": "Ses Satellites",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_aviation_software_engineering_at_ses_satellites_46422587",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-02T09:38:57.923835",
+      "status": "new"
+    },
+    {
+      "id": "motorola-solutions-intern-web-interface-software-engineer-2026",
+      "title": "Intern Web Interface Software Engineer 2026 ",
+      "company": "Motorola Solutions",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_web_interface_software_engineer_2026__at_motorola_solutions_46422545",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-02T09:38:57.923854",
+      "status": "new"
+    },
+    {
+      "id": "neogenomics-laboratories-ai-finance-innovation-intern",
+      "title": "Ai Finance Innovation Intern",
+      "company": "Neogenomics Laboratories",
+      "url": "https://www.intern-list.com/da-intern-list/ai_finance_innovation_intern_at_neogenomics_laboratories_54556520",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-02T09:39:01.704082",
+      "status": "new"
+    },
+    {
+      "id": "national-grid-performance-lab-year-round-part-time-intern",
+      "title": "Performance Lab Year Round Part Time Intern",
+      "company": "National Grid",
+      "url": "https://www.intern-list.com/da-intern-list/performance_lab_year_round_part_time_intern_at_national_grid_54556587",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-02T09:39:01.704099",
+      "status": "new"
+    },
+    {
+      "id": "sally-beauty-full-service-operations-intern",
+      "title": "Full Service Operations Intern",
+      "company": "Sally Beauty",
+      "url": "https://www.intern-list.com/da-intern-list/full_service_operations_intern_at_sally_beauty_54556563",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-02T09:39:01.704113",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-02T08:05:19.965066"
+  "last_updated": "2026-05-02T09:39:03.974942"
 }
