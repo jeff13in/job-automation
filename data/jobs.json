@@ -3286,7 +3286,20 @@
       ],
       "discovered_date": "2026-05-01T21:12:56.418884",
       "status": "new"
+    },
+    {
+      "id": "smart-working-solutions-digital-full-stack-engineer-hr172",
+      "title": "Digital Full Stack Engineer HR172",
+      "company": "Smart Working Solutions",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-02T08:05:09.977756",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-02T06:09:22.325166"
+  "last_updated": "2026-05-02T08:05:19.965066"
 }
