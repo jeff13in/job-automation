@@ -3377,7 +3377,33 @@
       ],
       "discovered_date": "2026-05-02T09:39:01.704113",
       "status": "new"
+    },
+    {
+      "id": "sayari-solutions-analyst",
+      "title": "Solutions Analyst",
+      "company": "Sayari",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-analyst-sayari-1131421",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-02T16:07:50.482219",
+      "status": "new"
+    },
+    {
+      "id": "monzo-lead-analytics-engineer-borrowing",
+      "title": "Lead Analytics Engineer Borrowing",
+      "company": "Monzo",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-analytics-engineer-borrowing-monzo-1131423",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-02T16:07:51.780047",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-02T15:10:52.409496"
+  "last_updated": "2026-05-02T16:07:59.225967"
 }
