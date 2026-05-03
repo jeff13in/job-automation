@@ -3442,7 +3442,98 @@
       ],
       "discovered_date": "2026-05-03T05:43:08.184695",
       "status": "new"
+    },
+    {
+      "id": "siriusxm-summer-intern-software-engineering-financial-systems",
+      "title": "Summer Intern Software Engineering Financial Systems",
+      "company": "Siriusxm",
+      "url": "https://www.intern-list.com/swe-intern-list/summer_intern_software_engineering_financial_systems_at_siriusxm_70856319",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-03T09:18:54.484296",
+      "status": "new"
+    },
+    {
+      "id": "coherent-corp-intern-software-developer-document-control-global-quality",
+      "title": "Intern Software Developer Document Control Global Quality",
+      "company": "Coherent Corp ",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_software_developer_document_control_global_quality_at_coherent_corp__70856318",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-03T09:18:54.484322",
+      "status": "new"
+    },
+    {
+      "id": "mohawk-industries-research-and-development-intern-dallas-texas-united-states-752",
+      "title": "Research And Development Intern Dallas Texas United States 75217 ",
+      "company": "Mohawk Industries",
+      "url": "https://www.intern-list.com/swe-intern-list/research_and_development_intern_dallas_texas_united_states_75217__at_mohawk_industries_70856331",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-03T09:18:54.484343",
+      "status": "new"
+    },
+    {
+      "id": "temco-logistics-bi-intern-carson-ca",
+      "title": "Bi Intern Carson Ca",
+      "company": "Temco Logistics",
+      "url": "https://www.intern-list.com/da-intern-list/bi_intern_carson_ca_at_temco_logistics_76688164",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-03T09:18:58.556551",
+      "status": "new"
+    },
+    {
+      "id": "geisinger-gme-analytics-dashboard-development-intern",
+      "title": "Gme Analytics Dashboard Development Intern",
+      "company": "Geisinger",
+      "url": "https://www.intern-list.com/da-intern-list/gme_analytics_dashboard_development_intern_at_geisinger_76688116",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-03T09:18:58.556575",
+      "status": "new"
+    },
+    {
+      "id": "bd-quality-analytics-engineering-intern",
+      "title": "Quality Analytics Engineering Intern",
+      "company": "Bd",
+      "url": "https://www.intern-list.com/da-intern-list/quality_analytics_engineering_intern_at_bd_76688196",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-03T09:18:58.556591",
+      "status": "new"
+    },
+    {
+      "id": "imerys-s-t-data-solidation-ai-analysis-intern",
+      "title": "S T Data Solidation Ai Analysis Intern",
+      "company": "Imerys",
+      "url": "https://www.intern-list.com/da-intern-list/s_t_data_solidation_ai_analysis_intern_at_imerys_76688164",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-03T09:18:58.556706",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-03T07:55:13.995969"
+  "last_updated": "2026-05-03T09:19:01.785127"
 }
