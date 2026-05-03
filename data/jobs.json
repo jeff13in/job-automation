@@ -3533,7 +3533,20 @@
       ],
       "discovered_date": "2026-05-03T09:18:58.556706",
       "status": "new"
+    },
+    {
+      "id": "philo-lead-backend-software-engineer-product-api",
+      "title": "Lead Backend Software Engineer (Product API)",
+      "company": "Philo",
+      "url": "https://weworkremotely.com/remote-jobs/philo-lead-backend-software-engineer-product-api",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-03T20:37:12.430781",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-03T19:52:04.266730"
+  "last_updated": "2026-05-03T20:37:22.152675"
 }
