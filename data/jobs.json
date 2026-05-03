@@ -3429,7 +3429,20 @@
       ],
       "discovered_date": "2026-05-03T02:28:00.435714",
       "status": "new"
+    },
+    {
+      "id": "31-green-ltd-full-stack-developer-backend-focus",
+      "title": "Full Stack Developer - Backend Focus",
+      "company": "31 Green Ltd",
+      "url": "https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-03T05:43:08.184695",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-03T02:28:10.197768"
+  "last_updated": "2026-05-03T05:43:15.074402"
 }
