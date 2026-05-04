@@ -3546,7 +3546,21 @@
       ],
       "discovered_date": "2026-05-03T20:37:12.430781",
       "status": "new"
+    },
+    {
+      "id": "black-canyon-consulting-junior-mid-full-stack-software-engineer",
+      "title": "Junior Mid Full Stack Software Engineer",
+      "company": "Black Canyon Consulting",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-04T02:26:49.431089",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-03T23:39:20.741569"
+  "last_updated": "2026-05-04T02:26:58.194525"
 }
