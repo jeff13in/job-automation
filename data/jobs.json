@@ -3560,7 +3560,111 @@
       ],
       "discovered_date": "2026-05-04T02:26:49.431089",
       "status": "new"
+    },
+    {
+      "id": "bmo-software-developer-fall-2026-co-op-internship-8-months",
+      "title": "Software Developer Fall 2026 Co Op Internship 8 Months",
+      "company": "Bmo",
+      "url": "https://www.intern-list.com/swe-intern-list/software_developer_fall_2026_co_op_internship_8_months_at_bmo_30326120",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-04T08:23:41.706414",
+      "status": "new"
+    },
+    {
+      "id": "state-street-business-architecture-agentic-automation-6-months-full-time-interns",
+      "title": "Business Architecture Agentic Automation 6 Months Full Time Internship Jul Dec 2026 ",
+      "company": "State Street",
+      "url": "https://www.intern-list.com/swe-intern-list/business_architecture_agentic_automation_6_months_full_time_internship_jul_dec_2026__at_state_street_30326134",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-04T08:23:41.706603",
+      "status": "new"
+    },
+    {
+      "id": "magna-international-intern-software-engineering",
+      "title": "Intern Software Engineering",
+      "company": "Magna International",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_software_engineering_at_magna_international_30326178",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-04T08:23:41.706633",
+      "status": "new"
+    },
+    {
+      "id": "bmo-cloud-business-strategy-analytics-analyst-fall-2026-co-op-internship-4-month",
+      "title": "Cloud Business Strategy Analytics Analyst Fall 2026 Co Op Internship 4 Months",
+      "company": "Bmo",
+      "url": "https://www.intern-list.com/da-intern-list/cloud_business_strategy_analytics_analyst_fall_2026_co_op_internship_4_months_at_bmo_35618098",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-04T08:23:48.433414",
+      "status": "new"
+    },
+    {
+      "id": "scotiabank-velocity-data-analyst-internship-co-op-fall-2026",
+      "title": "Velocity Data Analyst Internship Co Op Fall 2026",
+      "company": "Scotiabank",
+      "url": "https://www.intern-list.com/da-intern-list/velocity_data_analyst_internship_co_op_fall_2026_at_scotiabank_35618019",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-04T08:23:48.433443",
+      "status": "new"
+    },
+    {
+      "id": "vallourec-north-america-data-analyst-intern",
+      "title": "Data Analyst Intern",
+      "company": "Vallourec North America",
+      "url": "https://www.intern-list.com/da-intern-list/data_analyst_intern_at_vallourec_north_america_35618053",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-04T08:23:48.433459",
+      "status": "new"
+    },
+    {
+      "id": "the-boston-beer-company-cmms-data-intern",
+      "title": "Cmms Data Intern",
+      "company": "The Boston Beer Company",
+      "url": "https://www.intern-list.com/da-intern-list/cmms_data_intern_at_the_boston_beer_company_35618072",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-04T08:23:48.433474",
+      "status": "new"
+    },
+    {
+      "id": "sunoco-lp-intern-gis",
+      "title": "Intern Gis",
+      "company": "Sunoco Lp",
+      "url": "https://www.intern-list.com/da-intern-list/intern_gis_at_sunoco_lp_35618035",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-04T08:23:48.433586",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-04T05:48:39.613787"
+  "last_updated": "2026-05-04T08:23:50.554080"
 }
