@@ -3664,7 +3664,85 @@
       ],
       "discovered_date": "2026-05-04T08:23:48.433586",
       "status": "new"
+    },
+    {
+      "id": "general-dynamics-intern-engineer-co-op-may-2026-start",
+      "title": "Intern Engineer Co Op May 2026 Start ",
+      "company": "General Dynamics",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_engineer_co_op_may_2026_start__at_general_dynamics_85321086",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-05T09:57:57.711367",
+      "status": "new"
+    },
+    {
+      "id": "general-dynamics-85321013-d6470-intern-engineer-co-op-may-2026-start",
+      "title": "Intern Engineer Co Op May 2026 Start ",
+      "company": "General Dynamics 85321013-d6470",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_engineer_co_op_may_2026_start__at_general_dynamics_85321013-d6470",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-05T09:57:57.711424",
+      "status": "new"
+    },
+    {
+      "id": "nokia-test-developer-co-op-intern",
+      "title": "Test Developer Co Op Intern",
+      "company": "Nokia",
+      "url": "https://www.intern-list.com/swe-intern-list/test_developer_co_op_intern_at_nokia_85321092",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-05T09:57:57.711440",
+      "status": "new"
+    },
+    {
+      "id": "arcadis-gis-intern",
+      "title": "Gis Intern",
+      "company": "Arcadis",
+      "url": "https://www.intern-list.com/da-intern-list/gis_intern_at_arcadis_11804550",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-05T09:58:01.767412",
+      "status": "new"
+    },
+    {
+      "id": "rbc-2026-fall-cdo-reference-data-analyst-intern-4-months-bedford-ns",
+      "title": "2026 Fall Cdo Reference Data Analyst Intern 4 Months Bedford Ns ",
+      "company": "Rbc",
+      "url": "https://www.intern-list.com/da-intern-list/2026_fall_cdo_reference_data_analyst_intern_4_months_bedford_ns__at_rbc_11804564",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-05T09:58:01.767439",
+      "status": "new"
+    },
+    {
+      "id": "bmo-technical-analyst-fall-2026-co-op-internship-4-months",
+      "title": "Technical Analyst Fall 2026 Co Op Internship 4 Months",
+      "company": "Bmo",
+      "url": "https://www.intern-list.com/da-intern-list/technical_analyst_fall_2026_co_op_internship_4_months_at_bmo_11804585",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-05T09:58:01.767507",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-05T07:31:02.435376"
+  "last_updated": "2026-05-05T09:58:04.528267"
 }
