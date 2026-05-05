@@ -3742,7 +3742,20 @@
       ],
       "discovered_date": "2026-05-05T09:58:01.767507",
       "status": "new"
+    },
+    {
+      "id": "everpure-account-executive-sled",
+      "title": "Account Executive SLED",
+      "company": "Everpure",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-sled-everpure-1131450",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-05T17:02:45.977824",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-05T12:45:56.090711"
+  "last_updated": "2026-05-05T17:02:55.827075"
 }
