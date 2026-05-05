@@ -3755,7 +3755,20 @@
       ],
       "discovered_date": "2026-05-05T17:02:45.977824",
       "status": "new"
+    },
+    {
+      "id": "mmdsmart-ltd-senior-full-stack-developer-go-react",
+      "title": "Senior Full Stack Developer (Go/React)",
+      "company": "Mmdsmart Ltd",
+      "url": "https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-05T21:33:57.883666",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-05T20:04:10.559531"
+  "last_updated": "2026-05-05T21:34:06.164395"
 }
