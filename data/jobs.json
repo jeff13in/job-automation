@@ -3781,7 +3781,111 @@
       ],
       "discovered_date": "2026-05-06T02:25:15.429531",
       "status": "new"
+    },
+    {
+      "id": "contact-government-services-llc-business-analyst",
+      "title": "Business Analyst",
+      "company": "Contact Government Services, LLC",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-contact-government-services-llc-1131467",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-06T10:31:47.093950",
+      "status": "new"
+    },
+    {
+      "id": "foundation-building-materials-it-intern",
+      "title": "It Intern",
+      "company": "Foundation Building Materials",
+      "url": "https://www.intern-list.com/swe-intern-list/it_intern_at_foundation_building_materials_17674447",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-06T10:31:51.280801",
+      "status": "new"
+    },
+    {
+      "id": "state-street-application-developer-fulltime-internship-july-dec-2026",
+      "title": "Application Developer Fulltime Internship July Dec 2026 ",
+      "company": "State Street",
+      "url": "https://www.intern-list.com/swe-intern-list/application_developer_fulltime_internship_july_dec_2026__at_state_street_17674428",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-06T10:31:51.280848",
+      "status": "new"
+    },
+    {
+      "id": "outfront-media-summer-intern-platform-engineering",
+      "title": "Summer Intern Platform Engineering",
+      "company": "Outfront Media",
+      "url": "https://www.intern-list.com/swe-intern-list/summer_intern_platform_engineering_at_outfront_media_17674411",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-06T10:31:51.280864",
+      "status": "new"
+    },
+    {
+      "id": "sap-sap-successfactors-ixp-intern-ai-software-developer-summer-2026",
+      "title": "Sap Successfactors Ixp Intern Ai Software Developer Summer 2026 ",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/swe-intern-list/sap_successfactors_ixp_intern_ai_software_developer_summer_2026__at_sap_17674410",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-06T10:31:51.280881",
+      "status": "new"
+    },
+    {
+      "id": "mercury-insurance-marketing-data-analyst-intern",
+      "title": "Marketing Data Analyst Intern",
+      "company": "Mercury Insurance",
+      "url": "https://www.intern-list.com/da-intern-list/marketing_data_analyst_intern_at_mercury_insurance_31269457",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-06T10:31:55.274595",
+      "status": "new"
+    },
+    {
+      "id": "northwestern-energy-intern-asset-management-analyst",
+      "title": "Intern Asset Management Analyst",
+      "company": "Northwestern Energy",
+      "url": "https://www.intern-list.com/da-intern-list/intern_asset_management_analyst_at_northwestern_energy_31269481",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-06T10:31:55.274635",
+      "status": "new"
+    },
+    {
+      "id": "intact-data-scientist-i-4-month-internship-co-op-fall-2026",
+      "title": "Data Scientist I 4 Month Internship Co Op Fall 2026 ",
+      "company": "Intact",
+      "url": "https://www.intern-list.com/da-intern-list/data_scientist_i_4_month_internship_co_op_fall_2026__at_intact_31269479",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-06T10:31:55.274668",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-06T05:42:42.679278"
+  "last_updated": "2026-05-06T10:31:57.622705"
 }
