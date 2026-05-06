@@ -3768,7 +3768,20 @@
       ],
       "discovered_date": "2026-05-05T21:33:57.883666",
       "status": "new"
+    },
+    {
+      "id": "higharc-software-engineer-showroom",
+      "title": "Software Engineer Showroom",
+      "company": "Higharc",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-showroom-higharc-1131457",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-06T02:25:15.429531",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-05T23:43:07.785007"
+  "last_updated": "2026-05-06T02:25:25.545942"
 }
