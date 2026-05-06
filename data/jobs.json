@@ -3885,7 +3885,33 @@
       ],
       "discovered_date": "2026-05-06T10:31:55.274668",
       "status": "new"
+    },
+    {
+      "id": "cybersheath-staff-accountant",
+      "title": "Staff Accountant",
+      "company": "CyberSheath",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-accountant-cybersheath-1131469",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity"
+      ],
+      "discovered_date": "2026-05-06T16:58:52.377346",
+      "status": "new"
+    },
+    {
+      "id": "highlevel-software-development-engineer-backend",
+      "title": "Software Development Engineer Backend",
+      "company": "HighLevel",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-development-engineer-backend-highlevel-1131472",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "cybersecurity"
+      ],
+      "discovered_date": "2026-05-06T16:58:53.927930",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-06T15:10:09.411097"
+  "last_updated": "2026-05-06T16:59:02.318457"
 }
