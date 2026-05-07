@@ -4042,7 +4042,20 @@
       ],
       "discovered_date": "2026-05-07T17:15:04.983979",
       "status": "new"
+    },
+    {
+      "id": "codesignal-software-engineer-business-experience",
+      "title": "Software Engineer, Business Experience",
+      "company": "CodeSignal",
+      "url": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-07T20:46:38.473959",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-07T19:13:24.344880"
+  "last_updated": "2026-05-07T20:46:47.945126"
 }
