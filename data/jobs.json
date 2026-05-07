@@ -4028,7 +4028,21 @@
       ],
       "discovered_date": "2026-05-07T08:26:51.010425",
       "status": "new"
+    },
+    {
+      "id": "quanata-cloud-enablement-engineer-us",
+      "title": "Cloud Enablement Engineer US",
+      "company": "Quanata",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-enablement-engineer-us-quanata-1131488",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering",
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-07T17:15:04.983979",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-07T15:13:03.148476"
+  "last_updated": "2026-05-07T17:15:13.814900"
 }
