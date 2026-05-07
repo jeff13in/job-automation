@@ -3911,7 +3911,33 @@
       ],
       "discovered_date": "2026-05-06T16:58:53.927930",
       "status": "new"
+    },
+    {
+      "id": "akuity-senior-backend-engineer",
+      "title": "Senior Backend Engineer",
+      "company": "Akuity",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-07T02:27:34.590016",
+      "status": "new"
+    },
+    {
+      "id": "prove-senior-software-engineer",
+      "title": "Senior Software Engineer",
+      "company": "Prove",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-prove-1131482",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-07T02:27:37.419549",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-06T23:44:22.245527"
+  "last_updated": "2026-05-07T02:27:44.497369"
 }
