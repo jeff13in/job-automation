@@ -3937,7 +3937,98 @@
       ],
       "discovered_date": "2026-05-07T02:27:37.419549",
       "status": "new"
+    },
+    {
+      "id": "blink-charging-intern-software-engineer",
+      "title": "Intern Software Engineer",
+      "company": "Blink Charging",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_software_engineer_at_blink_charging_56723599",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-07T08:26:46.194659",
+      "status": "new"
+    },
+    {
+      "id": "nokia-incubation-developer-coop-intern",
+      "title": "Incubation Developer Coop Intern",
+      "company": "Nokia",
+      "url": "https://www.intern-list.com/swe-intern-list/incubation_developer_coop_intern_at_nokia_56723581",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-07T08:26:46.194687",
+      "status": "new"
+    },
+    {
+      "id": "infineon-technologies-internship-firmware-engineer",
+      "title": "Internship Firmware Engineer",
+      "company": "Infineon Technologies",
+      "url": "https://www.intern-list.com/swe-intern-list/internship_firmware_engineer_at_infineon_technologies_56723530",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-07T08:26:46.194708",
+      "status": "new"
+    },
+    {
+      "id": "teradata-ai-fullstack-software-engineer-intern",
+      "title": "Ai Fullstack Software Engineer Intern",
+      "company": "Teradata",
+      "url": "https://www.intern-list.com/swe-intern-list/ai_fullstack_software_engineer_intern_at_teradata_56723594",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-07T08:26:46.194724",
+      "status": "new"
+    },
+    {
+      "id": "booz-allen-hamilton-university-2026-summer-games-software-developer-intern",
+      "title": "University 2026 Summer Games Software Developer Intern",
+      "company": "Booz Allen Hamilton",
+      "url": "https://www.intern-list.com/swe-intern-list/university_2026_summer_games_software_developer_intern_at_booz_allen_hamilton_56723555",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-07T08:26:46.194745",
+      "status": "new"
+    },
+    {
+      "id": "liberty-latin-america-intern-digital",
+      "title": "Intern Digital",
+      "company": "Liberty Latin America",
+      "url": "https://www.intern-list.com/da-intern-list/intern_digital_at_liberty_latin_america_20932352",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-07T08:26:51.010350",
+      "status": "new"
+    },
+    {
+      "id": "booz-allen-hamilton-university-2026-summer-games-data-scientist-intern",
+      "title": "University 2026 Summer Games Data Scientist Intern",
+      "company": "Booz Allen Hamilton",
+      "url": "https://www.intern-list.com/da-intern-list/university_2026_summer_games_data_scientist_intern_at_booz_allen_hamilton_20932318",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-07T08:26:51.010425",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-07T05:46:07.825730"
+  "last_updated": "2026-05-07T08:26:54.687604"
 }
