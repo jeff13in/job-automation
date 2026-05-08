@@ -4055,7 +4055,85 @@
       ],
       "discovered_date": "2026-05-07T20:46:38.473959",
       "status": "new"
+    },
+    {
+      "id": "sap-sap-ixp-intern-digital-solution-advisory",
+      "title": "Sap Ixp Intern Digital Solution Advisory",
+      "company": "Sap",
+      "url": "https://www.intern-list.com/swe-intern-list/sap_ixp_intern_digital_solution_advisory_at_sap_94058567",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-08T08:54:26.009089",
+      "status": "new"
+    },
+    {
+      "id": "mdu-resources-group-inc-software-developer-intern",
+      "title": "Software Developer Intern",
+      "company": "Mdu Resources Group Inc ",
+      "url": "https://www.intern-list.com/swe-intern-list/software_developer_intern_at_mdu_resources_group_inc__94058531",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-08T08:54:26.009105",
+      "status": "new"
+    },
+    {
+      "id": "deltek-intern-software-engineering",
+      "title": "Intern Software Engineering",
+      "company": "Deltek",
+      "url": "https://www.intern-list.com/swe-intern-list/intern_software_engineering_at_deltek_94058572",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-08T08:54:26.009119",
+      "status": "new"
+    },
+    {
+      "id": "nielseniq-data-science-intern",
+      "title": "Data Science Intern",
+      "company": "Nielseniq",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_intern_at_nielseniq_2314677",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-08T08:54:29.779122",
+      "status": "new"
+    },
+    {
+      "id": "nokia-data-science-co-op-intern",
+      "title": "Data Science Co Op Intern",
+      "company": "Nokia",
+      "url": "https://www.intern-list.com/da-intern-list/data_science_co_op_intern_at_nokia_2314660",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-08T08:54:29.779237",
+      "status": "new"
+    },
+    {
+      "id": "the-bancorp-it-governance-analytics-intern",
+      "title": "It Governance Analytics Intern",
+      "company": "The Bancorp",
+      "url": "https://www.intern-list.com/da-intern-list/it_governance_analytics_intern_at_the_bancorp_2314617",
+      "location": "USA",
+      "source": "intern-list",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-08T08:54:29.779250",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-08T07:05:53.871278"
+  "last_updated": "2026-05-08T08:54:32.608646"
 }
