@@ -4133,7 +4133,20 @@
       ],
       "discovered_date": "2026-05-08T08:54:29.779250",
       "status": "new"
+    },
+    {
+      "id": "hitachi-vantara-corporation-lead-full-stack-developer-ui-ux",
+      "title": "Lead Full Stack Developer (UI/UX)",
+      "company": "Hitachi Vantara Corporation",
+      "url": "https://weworkremotely.com/remote-jobs/hitachi-vantara-corporation-lead-full-stack-developer-ui-ux",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-08T20:54:46.594845",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-08T19:53:06.250607"
+  "last_updated": "2026-05-08T20:54:53.108887"
 }
