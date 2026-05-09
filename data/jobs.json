@@ -4289,7 +4289,46 @@
       ],
       "discovered_date": "2026-05-09T16:47:15.255318",
       "status": "new"
+    },
+    {
+      "id": "spotify-senior-machine-learning-engineer-personalization",
+      "title": "Senior Machine Learning Engineer, Personalization",
+      "company": "Spotify",
+      "url": "https://weworkremotely.com/remote-jobs/spotify-senior-machine-learning-engineer-personalization",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "data_ml"
+      ],
+      "discovered_date": "2026-05-09T20:39:13.178437",
+      "status": "new"
+    },
+    {
+      "id": "vanta-senior-software-engineer-design-systems",
+      "title": "Senior Software Engineer, Design Systems",
+      "company": "Vanta",
+      "url": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-09T20:39:14.760768",
+      "status": "new"
+    },
+    {
+      "id": "veriff-senior-software-engineer-product-platform",
+      "title": "Senior Software Engineer (Product Platform)",
+      "company": "Veriff",
+      "url": "https://weworkremotely.com/remote-jobs/veriff-senior-software-engineer-product-platform",
+      "location": "Remote",
+      "source": "weworkremotely",
+      "categories": [
+        "software_engineering"
+      ],
+      "discovered_date": "2026-05-09T20:39:14.760795",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-09T19:54:50.122654"
+  "last_updated": "2026-05-09T20:39:22.707475"
 }
