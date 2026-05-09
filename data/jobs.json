@@ -4146,7 +4146,33 @@
       ],
       "discovered_date": "2026-05-08T20:54:46.594845",
       "status": "new"
+    },
+    {
+      "id": "kiavi-sales-development-representative",
+      "title": "Sales Development Representative",
+      "company": "Kiavi",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-kiavi-1131514",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-09T02:27:53.039359",
+      "status": "new"
+    },
+    {
+      "id": "zensurance-tech-lead",
+      "title": "Tech Lead",
+      "company": "Zensurance",
+      "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509",
+      "location": "Remote",
+      "source": "remoteok",
+      "categories": [
+        "general"
+      ],
+      "discovered_date": "2026-05-09T02:27:53.039688",
+      "status": "new"
     }
   ],
-  "last_updated": "2026-05-08T23:52:50.483961"
+  "last_updated": "2026-05-09T02:28:00.183809"
 }
