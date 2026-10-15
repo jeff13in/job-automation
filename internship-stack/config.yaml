@@ -1,0 +1,53 @@
+# Everything you'd want to tweak without touching code.
+
+sheet:
+  # "google" uses the shared Google Sheet; "csv" uses a local file (good for testing).
+  backend: csv
+  google_sheet_id: ""            # the long id from the sheet's URL
+  worksheet: "applications"
+  service_account_file: "secrets/service_account.json"
+  csv_path: "data/applications.csv"
+
+llm:
+  model: "claude-sonnet-5-5"     # tailoring, answers, classification
+  max_tokens: 2000
+
+finder:
+  simplify_readme: "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md"
+  max_age_days: 3                # "recent postings only"
+  sections:                      # README sections to read (substring match on the heading)
+    - "Software Engineering"
+    - "Data Science, AI & Machine Learning"
+  # Keep a role if any of these appear in its location (case-insensitive). Empty = keep all.
+  locations: ["Canada", "Toronto", "Ontario", ", ON", "Waterloo", "Ottawa", "Remote"]
+  skip_flags:
+    no_sponsorship: true         # 🛂  only matters for US-located roles
+    us_citizenship: true         # 🇺🇸
+    advanced_degree: true        # 🎓
+  # Gmail labels where LinkedIn / Handshake / Indeed alert emails land.
+  alert_labels: ["job-alerts"]
+
+applier:
+  # draft: fill the form, screenshot it, mark row "drafted", never press submit.
+  # submit: press submit when nothing is blocked. Earn your way here.
+  mode: draft
+  supported_ats: ["greenhouse", "lever", "ashby"]
+  headless: true
+  screenshots_dir: "data/screenshots"
+  profile_file: "profile.yaml"   # your fixed answers: name, email, links, eligibility
+  max_per_run: 5
+
+gmail:
+  # The dedicated application inbox (codes + replies). OAuth desktop-app credentials.
+  credentials_file: "secrets/gmail_credentials.json"
+  token_file: "secrets/gmail_token.json"
+  code_lookback_minutes: 10
+
+listener:
+  poll_seconds: 900
+  query: "newer_than:2d -category:promotions -label:job-alerts"
+
+resumes:
+  master: "resumes/master.yaml"
+  variants: "resumes/variants.yaml"
+  output_dir: "data/resumes"

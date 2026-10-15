@@ -1,0 +1,9 @@
+# crontab -e   (times are local; change the path to where you cloned the repo)
+S=/home/YOU/internship-stack
+
+# 01 find: every morning
+55 7 * * *        $S/scripts/run.sh stack.finder run    >> $S/data/finder.log 2>&1
+# 04 apply: three batches a day
+10 9,13,17 * * *  $S/scripts/run.sh stack.applier run   >> $S/data/applier.log 2>&1
+# 05 listen: every 15 minutes
+*/15 * * * *      $S/scripts/run.sh stack.listener once >> $S/data/listener.log 2>&1

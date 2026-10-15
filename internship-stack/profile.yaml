@@ -1,0 +1,33 @@
+# Fixed answers the applier types into forms. Everything here is YOUR statement;
+# the agent copies it, it never invents it.
+#
+# `answers` is how you unblock things over time: when a row is blocked on a
+# question, add a pattern + answer here and requeue the row
+# (python -m stack.applier requeue <id>). Patterns are case-insensitive regexes
+# matched against the question label. First match wins, and a match here beats
+# the "never answer" list, because it's you answering.
+
+fields:
+  first_name: "TODO"
+  last_name: "TODO"
+  email: "TODO"            # the dedicated application inbox
+  phone: "TODO"
+  location: "Toronto, ON, Canada"
+  linkedin: "TODO"
+  github: "TODO"
+  website: ""
+  school: "Brock University"
+  degree: "Bachelor of Science, Computer Science (Honours)"
+
+answers:
+  - pattern: "how did you (hear|find|learn)"
+    answer: "Online job board"
+  - pattern: "preferred (first )?name"
+    answer: "TODO"
+  # Examples to fill in yourself once you're sure of the answer:
+  # - pattern: "authori[sz]ed to work in canada"
+  #   answer: "Yes"
+  # - pattern: "require.*sponsorship"
+  #   answer: "TODO"
+  # - pattern: "currently enrolled|graduation"
+  #   answer: "TODO"
