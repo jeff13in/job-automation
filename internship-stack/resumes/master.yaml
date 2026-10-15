@@ -1,0 +1,107 @@
+# The master resume: everything you've done, in one place. Variants and tailored
+# resumes can only select, reorder and lightly reword what is here. They can never
+# add to it, and the tailoring step enforces that (see stack/resumes/tailor.py).
+#
+# Fill in every TODO. Each bullet needs a unique `id` and a few `tags`; the tags
+# should match the ones used in resumes/variants.yaml.
+
+name: Jeffin                      # TODO full name
+contact:
+  email: "TODO"                   # the application inbox, not your personal one
+  phone: "TODO"
+  location: "Toronto, ON"
+  links:
+    - "TODO github.com/..."
+    - "TODO linkedin.com/in/..."
+
+education:
+  - id: brock
+    school: Brock University
+    degree: "B.Sc. Computer Science (Honours)"
+    dates: "TODO – Apr 2026"
+    bullets: []
+
+experience:
+  - id: meritrium
+    org: Meritrium Corp
+    title: Software Engineer Intern
+    dates: "TODO"
+    bullets:
+      - id: meritrium-1
+        tags: [ai, python, fastapi, backend]
+        text: "TODO: AI-powered platform work. What you built, with what, and the result."
+      - id: meritrium-2
+        tags: [automation, pipelines, docker, data]
+        text: "TODO: automation pipeline work."
+      - id: meritrium-3
+        tags: [react, frontend, fullstack]
+        text: "TODO: React front-end work."
+
+  - id: novacast
+    org: NovaCast
+    title: Software Developer / AI Engineer
+    dates: "TODO"
+    bullets:
+      - id: novacast-1
+        tags: [llm, prompt-engineering, ai]
+        text: "TODO: LLM prompt engineering work."
+      - id: novacast-2
+        tags: [ai, fullstack]
+        text: "TODO: AI content platform work."
+
+  - id: vfc
+    org: Venture for Canada
+    title: "TODO title"
+    dates: "TODO"
+    bullets:
+      - id: vfc-1
+        tags: [llm, ai, python]
+        text: "TODO"
+
+  - id: digital-attractions
+    org: Digital Attractions
+    title: "TODO title"
+    dates: "TODO"
+    bullets:
+      - id: da-1
+        tags: [leadership]
+        text: "TODO: supervisory work, e.g. team size, responsibilities."
+
+projects:
+  - id: labpilot
+    name: LabPilot
+    stack: "FastAPI, React, Claude"
+    bullets:
+      - id: labpilot-1
+        tags: [ai, fastapi, react, fullstack]
+        text: "TODO"
+  - id: interview-sim
+    name: Interview Simulator
+    stack: "FastAPI, Groq, React"
+    bullets:
+      - id: interview-sim-1
+        tags: [llm, fastapi, react, fullstack]
+        text: "TODO"
+  - id: local-rag
+    name: Local RAG Pipeline
+    stack: "Python, Anthropic API, Ollama"
+    bullets:
+      - id: local-rag-1
+        tags: [rag, llm, python]
+        text: "TODO"
+
+leadership:
+  - id: cyber-club
+    org: Brock University Cybersecurity Club
+    title: Cybersecurity Executive
+    dates: "TODO"
+    bullets:
+      - id: cyber-club-1
+        tags: [security, leadership]
+        text: "TODO"
+
+skills:
+  languages: [Python, JavaScript, SQL]          # TODO complete
+  frameworks: [FastAPI, React]
+  tools: [Docker, Git, Linux, Burp Suite]
+  ai: [Anthropic API, LLM prompt engineering, RAG, Ollama]

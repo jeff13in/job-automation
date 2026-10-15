@@ -1,0 +1,62 @@
+# One variant per role type. The finder classifies each role into one of these by
+# keyword (first match in this order wins; `general-swe` is the fallback), and the
+# tailoring step starts from that variant's emphasis, section order and tags.
+#
+# `tags` pick which master bullets lead; `keywords` are matched against the role title.
+
+variants:
+  - id: security
+    title: "Security / Cyber"
+    keywords: [security, cyber, appsec, pentest, "red team", "blue team", soc, threat, vulnerability, infosec]
+    tags: [security, networking, python, linux]
+    section_order: [experience, projects, leadership, skills, education]
+    emphasis: "Web app security testing, Burp Suite / BSCP prep, cybersecurity club leadership, secure backend work."
+
+  - id: ai-ml
+    title: "AI / ML Engineering"
+    keywords: [machine learning, " ml ", "ml ", "ai ", " ai", llm, "deep learning", nlp, "computer vision", genai, "applied scientist", "research engineer"]
+    tags: [llm, ai, python, rag, prompt-engineering]
+    section_order: [experience, projects, skills, education, leadership]
+    emphasis: "LLM applications, RAG pipelines, prompt engineering, shipping AI features to production."
+
+  - id: data
+    title: "Data Engineering / Analytics"
+    keywords: ["data engineer", "data engineering", "data science", analytics, "data analyst", etl, pipeline, bi ]
+    tags: [data, python, sql, pipelines]
+    section_order: [experience, projects, skills, education, leadership]
+    emphasis: "Data pipelines, automation, Python, SQL, turning messy inputs into clean outputs."
+
+  - id: devops-cloud
+    title: "DevOps / Cloud / Infra"
+    keywords: [devops, "site reliability", sre, cloud, infrastructure, platform, kubernetes, "build and release"]
+    tags: [docker, cloud, ci, linux, automation]
+    section_order: [experience, projects, skills, education, leadership]
+    emphasis: "Docker, automation pipelines, CI, Linux, reliability."
+
+  - id: backend
+    title: "Backend Engineering"
+    keywords: [backend, back-end, "back end", api, server, distributed]
+    tags: [backend, fastapi, python, apis, docker]
+    section_order: [experience, projects, skills, education, leadership]
+    emphasis: "FastAPI services, API design, data modelling, Docker."
+
+  - id: frontend
+    title: "Frontend Engineering"
+    keywords: [frontend, front-end, "front end", "ui engineer", web developer, react]
+    tags: [frontend, react, javascript, ui]
+    section_order: [experience, projects, skills, education, leadership]
+    emphasis: "React interfaces, usable product UI, working with designers."
+
+  - id: fullstack
+    title: "Full-Stack Engineering"
+    keywords: [full stack, full-stack, fullstack]
+    tags: [fullstack, react, fastapi, python, docker]
+    section_order: [experience, projects, skills, education, leadership]
+    emphasis: "End-to-end features: React front end, FastAPI back end, deployed with Docker."
+
+  - id: general-swe
+    title: "Software Engineering (general)"
+    keywords: []                  # fallback
+    tags: [python, fastapi, react, ai, docker]
+    section_order: [experience, projects, skills, education, leadership]
+    emphasis: "Breadth: shipped software across AI, backend and frontend at several companies."

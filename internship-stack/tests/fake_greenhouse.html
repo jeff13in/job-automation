@@ -1,0 +1,36 @@
+<!doctype html>
+<html><body>
+<h1>Software Engineer Intern — Acme</h1>
+<p>We build data tools. You'll work with Python, FastAPI and React.</p>
+<form id="app" onsubmit="return false">
+  <div class="field"><label for="first_name">First Name *</label><input id="first_name" name="first_name" required></div>
+  <div class="field"><label for="last_name">Last Name *</label><input id="last_name" name="last_name" required></div>
+  <div class="field"><label for="email">Email *</label><input id="email" type="email" name="email" required></div>
+  <div class="field"><label for="resume">Resume/CV *</label><input id="resume" type="file" name="resume" required></div>
+  <div class="field"><label for="why">Why do you want to work at Acme? *</label><textarea id="why" name="why" required></textarea></div>
+  <div class="field"><label for="hear">How did you hear about us?</label>
+    <select id="hear" name="hear"><option>Select...</option><option>Referral</option><option>Online job board</option></select></div>
+  <div class="field"><label for="gender">Gender</label>
+    <select id="gender" name="gender"><option>Select...</option><option>Male</option><option>Female</option></select></div
+  >
+  SPONSOR_FIELD
+  <button type="submit" id="submit">Submit application</button>
+</form>
+<div id="code" style="display:none">
+  <p>Enter the 6-character security code we sent to your email.</p>
+  <input maxlength="1"><input maxlength="1"><input maxlength="1"><input maxlength="1"><input maxlength="1"><input maxlength="1">
+  <button id="codebtn">Submit</button>
+</div>
+<script>
+  document.getElementById('submit').onclick = () => {
+    window.submitted = Object.fromEntries(new FormData(document.getElementById('app')));
+    window.submitted.resume = document.getElementById('resume').files[0]?.name || '';
+    document.getElementById('app').style.display = 'none';
+    document.getElementById('code').style.display = 'block';
+  };
+  document.getElementById('codebtn').onclick = () => {
+    const code = [...document.querySelectorAll('#code input')].map(i => i.value).join('');
+    document.body.innerHTML = code === '482913' ? '<h2>Thank you for applying to Acme!</h2>' : '<h2>Invalid code</h2>';
+  };
+</script>
+</body></html>
