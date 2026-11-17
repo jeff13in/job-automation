@@ -88,6 +88,13 @@ def fetch(partner: dict) -> list[Job]:
         payload = post_json(
             url,
             {"appliedFacets": {}, "limit": PAGE, "offset": offset, "searchText": search},
+            # Workday rate-limits requests that don't look like they came from
+            # its own job-search page; send the headers that page sends.
+            headers={
+                "Accept": "application/json",
+                "Origin": f"https://{host}",
+                "Referer": f"https://{host}/{locale}/{site}",
+            },
         )
         batch = parse(partner["name"], payload, host, site, locale)
         out.extend(batch)

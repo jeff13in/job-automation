@@ -89,7 +89,12 @@ def fetch(partner: dict) -> list[Job]:
     url = partner.get("careers_url") or partner.get("url")
     if not url:
         raise ValueError(f"{partner['name']}: jsonld adapter needs a careers_url")
-    html = get_text(url)
+    try:
+        html = get_text(url)
+    except Exception as e:
+        # A careers page that 404s, blocks bots or times out is still worth a
+        # human look — flag it for a manual check with the reason, not an error.
+        raise LookupError(f"careers page unreachable ({type(e).__name__}) — verify this link") from e
     postings = extract_postings(html)
     if not postings:
         raise LookupError(f"no JSON-LD JobPosting found at {url}")

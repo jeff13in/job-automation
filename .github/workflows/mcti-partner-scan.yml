@@ -94,11 +94,12 @@ jobs:
           MIN_SCORE: ${{ inputs.min_score }}
           DRY_RUN: ${{ inputs.dry_run || github.event_name == 'pull_request' }}
         run: |
+          set -o pipefail
           ARGS=()
           [ -n "$COMPANY" ]         && ARGS+=(--company "$COMPANY")
           [ -n "$MIN_SCORE" ]       && ARGS+=(--min-score "$MIN_SCORE")
           [ "$DRY_RUN" = "true" ]   && ARGS+=(--dry)
-          python -m mcti_scan.cli -v scan "${ARGS[@]}" > scan.log
+          python -m mcti_scan.cli -v scan "${ARGS[@]}" | tee scan.log
           NEW=$(python -c "import json; print(len(json.load(open('reports/new_jobs.json'))))")
           echo "new_count=$NEW" >> "$GITHUB_OUTPUT"
           echo "found $NEW new role(s)"
