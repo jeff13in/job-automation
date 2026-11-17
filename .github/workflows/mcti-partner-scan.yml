@@ -14,6 +14,12 @@ on:
   schedule:
     # 12:40 UTC = 7:40 Toronto (EST), Mon-Fri. GitHub cron is always UTC.
     - cron: '40 12 * * 1-5'
+  # On PRs that touch the scanner: a dry run on GitHub's runners, so changes
+  # are tested against the live boards before merge. Never commits or opens issues.
+  pull_request:
+    paths:
+      - 'mcti_scan/**'
+      - '.github/workflows/mcti-partner-scan.yml'
   workflow_dispatch:
     inputs:
       rediscover:
@@ -38,7 +44,7 @@ permissions:
   issues: write
 
 concurrency:
-  group: mcti-partner-scan
+  group: mcti-partner-scan-${{ github.event_name == 'pull_request' && github.ref || 'main' }}
   cancel-in-progress: false
 
 jobs:
@@ -86,7 +92,7 @@ jobs:
         env:
           COMPANY: ${{ inputs.company }}
           MIN_SCORE: ${{ inputs.min_score }}
-          DRY_RUN: ${{ inputs.dry_run }}
+          DRY_RUN: ${{ inputs.dry_run || github.event_name == 'pull_request' }}
         run: |
           ARGS=()
           [ -n "$COMPANY" ]         && ARGS+=(--company "$COMPANY")
@@ -107,7 +113,7 @@ jobs:
           fi
 
       - name: Commit reports and seen-state
-        if: ${{ inputs.dry_run != true }}
+        if: ${{ inputs.dry_run != true && github.event_name != 'pull_request' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -124,7 +130,7 @@ jobs:
           echo "push failed after retries" && exit 1
 
       - name: Open an issue for new roles
-        if: ${{ steps.scan.outputs.new_count != '0' && inputs.dry_run != true }}
+        if: ${{ steps.scan.outputs.new_count != '0' && inputs.dry_run != true && github.event_name != 'pull_request' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
