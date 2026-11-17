@@ -77,7 +77,12 @@ def get_text(url: str, *, timeout: int = 25, **kwargs: Any) -> str:
 
 
 def probe(url: str, *, timeout: int = 12) -> bool:
-    """Does this endpoint exist and return JSON? Used by discovery."""
+    """Does this endpoint exist AND list at least one posting? Used by discovery.
+
+    Some ATS APIs (SmartRecruiters especially) answer 200 with an empty list for
+    *any* slug, so "returned JSON" is not proof the board exists. Requiring at
+    least one posting avoids locking a partner onto a phantom board.
+    """
     try:
         r = session().get(url, timeout=timeout)
         if r.status_code != 200:
@@ -85,6 +90,10 @@ def probe(url: str, *, timeout: int = 12) -> bool:
         body = r.json()
     except Exception:
         return False
+    if isinstance(body, list):
+        return len(body) > 0
     if isinstance(body, dict):
-        return bool(body.get("jobs") or body.get("content") or body.get("offers") or body)
-    return bool(body)
+        for key in ("jobs", "content", "offers", "results", "postings"):
+            if isinstance(body.get(key), list):
+                return len(body[key]) > 0
+    return False

@@ -36,10 +36,12 @@ def scan_one(partner: dict[str, Any]) -> ScanResult:
         jobs: list[Job] = fetcher(partner)
     except LookupError as e:
         # Adapter ran but found nothing parseable — a manual check, not a failure.
+        log.info("%-32s nothing parseable — manual check (%s)", name, e)
         return ScanResult(
             company=name, ok=True, manual_url=partner.get("careers_url", ""), error=str(e)
         )
     except Exception as e:  # network, JSON, schema drift
+        log.warning("%-32s ERROR %s: %s", name, type(e).__name__, e)
         return ScanResult(
             company=name,
             ok=False,

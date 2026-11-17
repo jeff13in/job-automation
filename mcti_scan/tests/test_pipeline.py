@@ -197,3 +197,29 @@ def test_corrupt_state_does_not_crash(tmp_path):
 if __name__ == "__main__":
     import pytest
     raise SystemExit(pytest.main([__file__, "-q"]))
+
+
+def test_probe_rejects_empty_boards(monkeypatch):
+    """SmartRecruiters returns 200 + empty content for any slug: not a board."""
+    from mcti_scan import http
+
+    class R:
+        def __init__(self, body): self.status_code, self._b = 200, body
+        def json(self): return self._b
+
+    class S:
+        def __init__(self, body): self.body = body
+        def get(self, *a, **k): return R(self.body)
+
+    cases = [
+        ({"content": [], "totalFound": 0}, False),
+        ({"content": [{"id": 1}]}, True),
+        ({"jobs": []}, False),
+        ({"jobs": [{"id": 1}]}, True),
+        ([], False),
+        ([{"id": 1}], True),
+        ({"message": "ok"}, False),
+    ]
+    for body, want in cases:
+        monkeypatch.setattr(http, "session", lambda b=body: S(b))
+        assert http.probe("https://x") is want, body
