@@ -1,0 +1,168 @@
+# MCTI industry partners — University of Guelph Master of Cybersecurity & Threat Intelligence
+#
+# platform values:
+#   greenhouse | lever | ashby | smartrecruiters | workable | recruitee  -> needs `token`
+#   workday                                                             -> needs `host` + `site`
+#   jsonld                                                              -> needs `careers_url`
+#   auto     -> run `discover` to probe candidate slugs and fill this in
+#   manual   -> no machine-readable board; report prints the link to check by hand
+#
+# VERIFIED means the endpoint was confirmed against a live posting.
+# Everything marked auto is a candidate guess until discover.py proves it.
+
+filters:
+  min_score: 25
+  require_canada: true
+  allow_remote_anywhere: false
+
+partners:
+  # ---------------- confirmed ----------------
+  - name: Magnet Forensics
+    platform: lever
+    token: magnetforensics        # VERIFIED jobs.lever.co/magnetforensics
+    careers_url: https://www.magnetforensics.com/careers/
+    notes: Waterloo HQ; posts Software Developer Co-op terms
+
+  - name: BlackBerry
+    platform: workday
+    host: bb.wd3.myworkdayjobs.com  # VERIFIED
+    site: BlackBerry
+    careers_url: https://www.blackberry.com/en/careers
+    notes: Waterloo + Ottawa (QNX); runs a student program
+
+  # ---------------- known platform, token to confirm ----------------
+  - name: Arctic Wolf
+    platform: auto
+    candidates: [arcticwolf, arctic-wolf, arcticwolfnetworks]
+    hint: workday              # their own FAQ says applications go through Workday
+    careers_url: https://arcticwolf.com/careers/
+    notes: Waterloo office; MDR/SOC roles
+
+  - name: eSentire
+    platform: auto
+    candidates: [esentire]
+    careers_url: https://www.esentire.com/company/careers
+    mirror_url: https://careers.georgian.io/companies/esentire
+    notes: Waterloo HQ; also syndicated on Georgian's portfolio board
+
+  - name: Georgian Partners
+    platform: auto
+    candidates: [georgian, georgianpartners]
+    careers_url: https://careers.georgian.io/jobs
+    notes: VC — its board aggregates portfolio companies incl. eSentire
+
+  - name: Trellix
+    platform: auto
+    candidates: [trellix, musarubra, fireeye]
+    careers_url: https://www.trellix.com/about/careers/
+    notes: formed from McAfee Enterprise + FireEye
+
+  - name: Mandiant (Google Cloud)
+    platform: manual
+    careers_url: https://www.google.com/about/careers/applications/jobs/results/?q=mandiant
+    notes: absorbed into Google Cloud; search Google's board for "Mandiant" / "security"
+
+  - name: ISA Cybersecurity
+    platform: auto
+    candidates: [isacybersecurity, isa-cybersecurity, isacyber]
+    careers_url: https://isacybersecurity.com/careers/
+    notes: Toronto; has posted Junior Penetration Tester and Tier 1/2 analyst roles
+
+  - name: Stratejm
+    platform: auto
+    candidates: [stratejm]
+    careers_url: https://stratejm.com/careers/
+    notes: Mississauga; Canadian SECaaS provider — small, few postings
+
+  - name: IAM Concepts
+    platform: auto
+    candidates: [iamconcepts, iam-concepts]
+    careers_url: https://iamconcepts.com/careers/
+    notes: Toronto; identity & access management consultancy
+
+  # ---------------- large enterprises (mostly Workday) ----------------
+  - name: Equitable Bank
+    platform: auto
+    candidates: [equitablebank, eqbank, equitable]
+    hint: workday
+    careers_url: https://www.eqbank.ca/company/careers
+    notes: Toronto; runs student and leadership programs
+
+  - name: BMO
+    platform: auto
+    candidates: [bmo]
+    hint: workday
+    careers_url: https://jobs.bmo.com/ca/en
+    notes: large campus/new-grad intake in Toronto
+
+  - name: Canadian Tire Corporation
+    platform: auto
+    candidates: [canadiantire, cantire]
+    hint: workday
+    careers_url: https://corp.canadiantire.ca/English/careers/
+    notes: Toronto tech org
+
+  - name: Intact Insurance
+    platform: auto
+    candidates: [intact, intactfc]
+    hint: workday
+    careers_url: https://careers.intact.ca/ca/en
+    notes: has a security operations team
+
+  - name: The Co-operators
+    platform: auto
+    candidates: [cooperators, thecooperators]
+    careers_url: https://www.cooperators.ca/en/about-us/careers.aspx
+    notes: GUELPH HEAD OFFICE — highest-value local employer on this list
+
+  - name: Fiera Capital
+    platform: auto
+    candidates: [fieracapital, fiera]
+    careers_url: https://www.fieracapital.com/en/careers
+    notes: Montreal HQ, Toronto office
+
+  - name: Cisco Canada
+    platform: auto
+    candidates: [cisco]
+    careers_url: https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D
+    notes: runs a large new-grad / CX associate program
+
+  - name: Microsoft
+    platform: manual
+    careers_url: https://jobs.careers.microsoft.com/global/en/search?lc=Canada
+    notes: own board with its own API; filter to Canada + "University" for new grad
+
+  - name: EY (Ernst & Young)
+    platform: auto
+    candidates: [ey, ernstyoung]
+    careers_url: https://www.ey.com/en_ca/careers
+    notes: Cybersecurity consulting; campus recruiting cycle is Sept-Oct
+
+  - name: PwC Canada
+    platform: auto
+    candidates: [pwc, pwccanada]
+    careers_url: https://www.pwc.com/ca/en/careers.html
+    notes: Cyber practice; campus cycle
+
+  # ---------------- public sector: portals, apply by hand ----------------
+  - name: Canadian Centre for Cyber Security (CSE)
+    platform: manual
+    careers_url: https://www.cse-cst.gc.ca/en/careers-carrieres
+    notes: >
+      Requires Canadian citizenship + Top Secret clearance; long timeline.
+      Student program (FSWEP/co-op) is the usual entry route.
+
+  - name: Royal Canadian Mounted Police (RCMP)
+    platform: manual
+    careers_url: https://www.rcmp-grc.gc.ca/en/careers
+    notes: civilian cyber roles posted through GC Jobs (jobs.gc.ca)
+
+  - name: Toronto Police Service
+    platform: manual
+    careers_url: https://www.tps.ca/careers/
+    notes: civilian IT/cyber postings appear on the TPS careers portal
+
+  - name: Canadian Cyber Threat Exchange (CCTX)
+    platform: manual
+    careers_url: https://cctx.ca/careers/
+    notes: very small non-profit; postings are rare

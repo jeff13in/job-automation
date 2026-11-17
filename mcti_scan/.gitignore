@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+partners.yml.bak
+state/*.corrupt.json
+# state/seen.json and reports/ are committed on purpose: the GitHub Actions
+# workflow keeps "what's new" history in the repo so every run (CI or local
+# after a `git pull`) diffs against the same seen-state.
